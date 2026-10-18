@@ -228,7 +228,7 @@ export function clientsPage(ctx, data) {
   </section>
   ${C.ctaBand(ctx)}
 </main>`;
-  return { id: 'clients', title: 'Our Clients', description: 'Credtech Solutions clients include Sony LIV, Amazon miniTV, Aaj Tak, ITV Network, Patanjali, Yolohealth, MG Motor, Amar Ujala, News Nation and Varanasi Nagar Nigam.', trail, body };
+  return { id: 'clients', title: 'Our Clients and Success Stories', description: 'Credtech Solutions clients include Sony LIV, Amazon miniTV, Aaj Tak, ITV Network, Patanjali, Yolohealth, MG Motor, Amar Ujala, News Nation and Varanasi Nagar Nigam.', trail, body };
 }
 
 /* =================== PLANS =================== */
@@ -262,7 +262,7 @@ export function blogIndex(ctx, data) {
   <section class="wrap block"><div class="cards m-slide">${join(posts, (p) => C.postCard(ctx, p))}</div></section>
   ${C.ctaBand(ctx)}
 </main>`;
-  return { id: 'blog', title: 'Blog', description: 'Articles from Credtech Solutions on social media marketing, content marketing, public relations and online reputation management.', trail, body };
+  return { id: 'blog', title: 'PR and Digital Marketing Blog', description: 'Articles from Credtech Solutions on social media marketing, content marketing, public relations and online reputation management.', trail, body };
 }
 export function post(ctx, data, p) {
   const trail = [{ id: 'blog', label: 'Blog' }, { id: `post:${p.slug}`, label: p.title }];
