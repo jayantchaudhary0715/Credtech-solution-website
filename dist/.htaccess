@@ -1,0 +1,47 @@
+ErrorDocument 404 /404.html
+Options -Indexes
+RewriteEngine On
+RewriteRule (^|/)\.(?!well-known) - [F]
+Redirect 301 /bada-naam-karenge/ /campaigns/bada-naam-karenge/
+Redirect 301 /shark-tank-2/ /campaigns/shark-tank-india-s2/
+Redirect 301 /hari-katha/ /campaigns/hari-katha/
+Redirect 301 /tanaav-2/ /campaigns/tanaav-2/
+Redirect 301 /our-plan/ /plans/
+Redirect 301 /analytics-conversion-optimization/ /services/analytics-conversion-optimization/
+Redirect 301 /online-reputation-management/ /services/online-reputation-management/
+Redirect 301 /website-design-developement/ /services/website-design-development/
+Redirect 301 /blog-post/ /blog/
+Redirect 301 /our-clients/ /clients/
+Redirect 301 /our-campaign/ /campaigns/
+Redirect 301 /content-marketing/ /blog/content-marketing-educate-engage-convert/
+Redirect 301 /pr-agency/ /services/public-relations/
+Redirect 301 /seosearch-engine-marketing/ /services/search-engine-marketing/
+Redirect 301 /social-meadia-marketing/ /services/social-media-marketing/
+Redirect 301 /social-media-amplification/ /services/social-media-amplification/
+Redirect 301 /portfolio/ /campaigns/
+Redirect 301 /about-us/ /about/
+Redirect 301 /digital-marketing/ /blog/
+Redirect 301 /social-media-marketing-build-a-loyal-community/ /blog/social-media-marketing-build-a-loyal-community/
+Redirect 301 /from-startup-to-standout/ /blog/from-startup-to-standout/
+Redirect 301 /targeted-traffic-leads/ /blog/
+Redirect 301 /online-reputation-management-orm/ /blog/online-reputation-management-orm/
+RedirectMatch 301 ^/wp-admin/.*$ /
+RedirectMatch 301 ^/category/.*$ /blog/
+RedirectMatch 301 ^/feed/.*$ /blog/
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType text/css "access plus 1 week"
+ExpiresByType application/javascript "access plus 1 week"
+</IfModule>
+<IfModule mod_headers.c>
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'sha256-pwxGLHz2ww9Fb1OMpo72qpIrr+gd9A5qJ4erId6yMj8='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'; frame-src https://calendar.google.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "DENY"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+Header always set Cross-Origin-Opener-Policy "same-origin"
+</IfModule>

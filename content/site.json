@@ -1,0 +1,148 @@
+{
+  "_about": "Global business details. Edit here and run `npm run build`. Every value below was taken from the live WordPress site on 17 Oct 2026; see sourceUrl fields.",
+  "name": "Credtech Solutions",
+  "legalName": "Credtech Solutions Private Limited",
+  "siteUrl": "https://credtechsolutions.com",
+  "tagline": "Your Vision, Our Expertise: Unlock New Possibilities with Credtech Solutions.",
+  "shortDescription": "Credtech Solutions, based in Delhi NCR, is a trusted marketing and PR agency specialising in SEO, digital marketing, brand building and media outreach. We help businesses boost online visibility, drive traffic and grow their brand with data-driven strategies.",
+  "shortDescriptionSourceUrl": "https://credtechsolutions.com/",
+  "locale": "en_IN",
+  "contact": {
+    "phoneDisplay": "766 938 7999",
+    "phoneE164": "+917669387999",
+    "phoneNote": "The live site shows the number without a country code. +91 is assumed for the tel: link.",
+    "email": "info@credtechsolutions.com",
+    "addressLine": "UrbTech Tower, Sector 132, Noida",
+    "addressRegion": "Uttar Pradesh",
+    "addressCountry": "IN",
+    "postalCode": "201304",
+    "postalCodeNote": "Postcode taken from the Google Maps pin linked on the live Contact page.",
+    "mapUrl": "https://maps.app.goo.gl/JfC8Zy5NXCLkdp5G9",
+    "sourceUrl": "https://credtechsolutions.com/contact/"
+  },
+  "booking": {
+    "label": "Schedule Meeting",
+    "url": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ30JLjYB4JHOALiyTQHWuaQ5daSlAkZEcHzWNp2fgrJzZz8H969ZsGvNRc7UpTk9aUwJphpYJjE?gv=true",
+    "sourceUrl": "https://credtechsolutions.com/schedule-a-meeting/"
+  },
+  "social": [
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/credtech-solutions/",
+      "sourceUrl": "https://credtechsolutions.com/"
+    },
+    {
+      "id": "x",
+      "label": "X (Twitter)",
+      "handle": "@Credtech_Noida",
+      "url": "https://twitter.com/Credtech_Noida",
+      "sourceUrl": "https://credtechsolutions.com/"
+    },
+    {
+      "id": "facebook",
+      "label": "Facebook",
+      "url": "https://www.facebook.com/credtechsolutions",
+      "sourceUrl": "https://credtechsolutions.com/"
+    }
+  ],
+  "forms": {
+    "_howTo": "Paste a form endpoint (Formspree, Getform, Basin, Web3Forms or your own API) into `endpoint`. The site POSTs FormData with Accept: application/json and only shows a success message when the endpoint returns a 2xx response. Leave it empty and the forms explain that online sending is not connected and offer the visitor an email draft instead.",
+    "endpoint": "",
+    "careersEndpoint": "",
+    "recipientEmail": "info@credtechsolutions.com"
+  },
+  "analytics": {
+    "_howTo": "Optional. Add a GA4 measurement ID (G-XXXXXXX). The live WordPress site uses Google Site Kit; its ID was not exposed in the public HTML.",
+    "ga4": ""
+  },
+  "three": {
+    "_howTo": "`local` serves the bundled copy in /vendor/three (recommended). `cdn` loads three@0.160.0 from jsDelivr.",
+    "source": "local"
+  },
+  "nav": [
+    {
+      "label": "About",
+      "page": "about"
+    },
+    {
+      "label": "Services",
+      "page": "services"
+    },
+    {
+      "label": "Campaigns",
+      "page": "campaigns"
+    },
+    {
+      "label": "Clients",
+      "page": "clients"
+    },
+    {
+      "label": "Plans",
+      "page": "plans"
+    },
+    {
+      "label": "Blog",
+      "page": "blog"
+    },
+    {
+      "label": "Contact",
+      "page": "contact"
+    }
+  ],
+  "footer": {
+    "capabilities": [
+      {
+        "label": "Social Media Management",
+        "page": "service:social-media-marketing"
+      },
+      {
+        "label": "Social Amplification",
+        "page": "service:social-media-amplification"
+      },
+      {
+        "label": "PR Management",
+        "page": "service:public-relations"
+      },
+      {
+        "label": "Reputation Management",
+        "page": "service:online-reputation-management"
+      },
+      {
+        "label": "Digital Advertising",
+        "page": "service:search-engine-marketing"
+      }
+    ],
+    "company": [
+      {
+        "label": "About Us",
+        "page": "about"
+      },
+      {
+        "label": "Our Campaigns",
+        "page": "campaigns"
+      },
+      {
+        "label": "Our Clients",
+        "page": "clients"
+      },
+      {
+        "label": "Our Plans",
+        "page": "plans"
+      },
+      {
+        "label": "Careers",
+        "page": "careers"
+      },
+      {
+        "label": "Privacy Policy",
+        "page": "privacy"
+      }
+    ]
+  },
+  "seo": {
+    "_howTo": "Carried over from the live WordPress site so Google Search Console stays verified after launch.",
+    "googleSiteVerification": "rR-MMDh3_fviwvniDejrOhWBVnJeqqE7x-gNIQFOm5k",
+    "sourceUrl": "https://credtechsolutions.com/"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_about": "Packages exactly as published on /our-plan/ and the homepage. Prices and currency are copied verbatim; do not round or convert.",
+  "intro": {
+    "eyebrow": "Plans & Packages",
+    "title": "Affordable digital marketing plans that deliver results",
+    "lead": "We offer flexible digital marketing packages for startups, growing brands and market leaders. Choose the plan that fits your goals and budget.",
+    "paras": [
+      "Every company has different objectives, budgets and timelines. Whether you are a startup establishing yourself or an established brand ready to lead your sector, our packages are built to support your growth.",
+      "Choose Basic, Silver or Gold. Each is designed to give you the right balance of growth, engagement and visibility."
+    ],
+    "sourceUrl": "https://credtechsolutions.com/our-plan/"
+  },
+  "why": {
+    "heading": "Why choose Credtech?",
+    "bullets": [
+      "<b>Complete digital marketing support.</b> We take care of everything, from SEO to social media.",
+      "<b>Data-driven strategies.</b> Each plan is built to produce measurable outcomes.",
+      "<b>Scalable solutions.</b> Start small or go big, and upgrade at any time.",
+      "<b>Committed teamwork.</b> Our professionals work closely with you to develop your brand."
+    ]
+  },
+  "items": [
+    {
+      "id": "basic",
+      "name": "Basic",
+      "price": "$500",
+      "period": "/ month",
+      "description": "Perfect for startups and small businesses building their online presence.",
+      "features": [
+        "5 social media posts/month (1 platform)",
+        "Basic SEO (keyword research, on-page SEO)",
+        "SMO for 1 platform",
+        "Monthly website updates & security checks",
+        "2 blog posts per month",
+        "1 consultation per month",
+        "Monthly performance report"
+      ],
+      "homeFeatures": 6,
+      "cta": { "label": "Get Started", "page": "contact" },
+      "featured": false
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "price": "$1,000",
+      "period": "/ month",
+      "description": "For growing brands aiming for more leads and visibility.",
+      "features": [
+        "10 social media posts/month (2 platforms)",
+        "Intermediate SEO (local SEO + link building)",
+        "SMO for 2 platforms",
+        "Bi-weekly website updates & monitoring",
+        "4 blog posts per month",
+        "1 influencer collaboration/month",
+        "1 podcast episode every 2 months",
+        "1 paid ad + 1 Meta campaign/month",
+        "Basic ORM",
+        "2 consultations per month",
+        "1 email campaign/month",
+        "Bi-weekly performance report"
+      ],
+      "homeFeatures": 7,
+      "cta": { "label": "Book Free Consultation", "page": "booking" },
+      "featured": true
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "price": "$2,000",
+      "period": "/ month",
+      "description": "For brands wanting maximum growth and nationwide reach.",
+      "features": [
+        "20 social media posts/month (4 platforms)",
+        "Advanced SEO (technical + local + link building)",
+        "SMO for 3 platforms",
+        "Weekly website updates, security & backups",
+        "8 blogs + videos/infographics per month",
+        "3 influencer collaborations/month",
+        "1 podcast episode/month + guest features",
+        "3 paid ad campaigns + 2 Meta campaigns/month",
+        "Advanced ORM (monitoring, reviews, repairs)",
+        "4 consultations per month",
+        "3 email campaigns/month",
+        "Weekly detailed performance reports"
+      ],
+      "homeFeatures": 7,
+      "cta": { "label": "Get Started", "page": "contact" },
+      "featured": false
+    }
+  ],
+  "closing": "Pick your plan and let us take your brand to the next level.",
+  "sourceUrl": "https://credtechsolutions.com/our-plan/",
+  "sourceModified": "2025-08-02T11:58:12"
+}

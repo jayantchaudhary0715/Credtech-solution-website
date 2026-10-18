@@ -1,0 +1,171 @@
+{
+ "cleanUrls": false,
+ "trailingSlash": true,
+ "headers": [
+  {
+   "source": "/(.*)",
+   "headers": [
+    {
+     "key": "Content-Security-Policy",
+     "value": "default-src 'self'; script-src 'self' 'sha256-pwxGLHz2ww9Fb1OMpo72qpIrr+gd9A5qJ4erId6yMj8='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'; frame-src https://calendar.google.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"
+    },
+    {
+     "key": "Strict-Transport-Security",
+     "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+     "key": "X-Content-Type-Options",
+     "value": "nosniff"
+    },
+    {
+     "key": "X-Frame-Options",
+     "value": "DENY"
+    },
+    {
+     "key": "Referrer-Policy",
+     "value": "strict-origin-when-cross-origin"
+    },
+    {
+     "key": "Permissions-Policy",
+     "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+    },
+    {
+     "key": "Cross-Origin-Opener-Policy",
+     "value": "same-origin"
+    }
+   ]
+  }
+ ],
+ "redirects": [
+  {
+   "source": "/bada-naam-karenge/",
+   "destination": "/campaigns/bada-naam-karenge/",
+   "permanent": true
+  },
+  {
+   "source": "/shark-tank-2/",
+   "destination": "/campaigns/shark-tank-india-s2/",
+   "permanent": true
+  },
+  {
+   "source": "/hari-katha/",
+   "destination": "/campaigns/hari-katha/",
+   "permanent": true
+  },
+  {
+   "source": "/tanaav-2/",
+   "destination": "/campaigns/tanaav-2/",
+   "permanent": true
+  },
+  {
+   "source": "/our-plan/",
+   "destination": "/plans/",
+   "permanent": true
+  },
+  {
+   "source": "/analytics-conversion-optimization/",
+   "destination": "/services/analytics-conversion-optimization/",
+   "permanent": true
+  },
+  {
+   "source": "/online-reputation-management/",
+   "destination": "/services/online-reputation-management/",
+   "permanent": true
+  },
+  {
+   "source": "/website-design-developement/",
+   "destination": "/services/website-design-development/",
+   "permanent": true
+  },
+  {
+   "source": "/blog-post/",
+   "destination": "/blog/",
+   "permanent": true
+  },
+  {
+   "source": "/our-clients/",
+   "destination": "/clients/",
+   "permanent": true
+  },
+  {
+   "source": "/our-campaign/",
+   "destination": "/campaigns/",
+   "permanent": true
+  },
+  {
+   "source": "/content-marketing/",
+   "destination": "/blog/content-marketing-educate-engage-convert/",
+   "permanent": true
+  },
+  {
+   "source": "/pr-agency/",
+   "destination": "/services/public-relations/",
+   "permanent": true
+  },
+  {
+   "source": "/seosearch-engine-marketing/",
+   "destination": "/services/search-engine-marketing/",
+   "permanent": true
+  },
+  {
+   "source": "/social-meadia-marketing/",
+   "destination": "/services/social-media-marketing/",
+   "permanent": true
+  },
+  {
+   "source": "/social-media-amplification/",
+   "destination": "/services/social-media-amplification/",
+   "permanent": true
+  },
+  {
+   "source": "/portfolio/",
+   "destination": "/campaigns/",
+   "permanent": true
+  },
+  {
+   "source": "/about-us/",
+   "destination": "/about/",
+   "permanent": true
+  },
+  {
+   "source": "/digital-marketing/",
+   "destination": "/blog/",
+   "permanent": true
+  },
+  {
+   "source": "/social-media-marketing-build-a-loyal-community/",
+   "destination": "/blog/social-media-marketing-build-a-loyal-community/",
+   "permanent": true
+  },
+  {
+   "source": "/from-startup-to-standout/",
+   "destination": "/blog/from-startup-to-standout/",
+   "permanent": true
+  },
+  {
+   "source": "/targeted-traffic-leads/",
+   "destination": "/blog/",
+   "permanent": true
+  },
+  {
+   "source": "/online-reputation-management-orm/",
+   "destination": "/blog/online-reputation-management-orm/",
+   "permanent": true
+  },
+  {
+   "source": "/wp-admin/:path*",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/category/:path*",
+   "destination": "/blog/",
+   "permanent": true
+  },
+  {
+   "source": "/feed/:path*",
+   "destination": "/blog/",
+   "permanent": true
+  }
+ ]
+}

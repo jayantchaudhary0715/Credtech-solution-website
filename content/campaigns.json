@@ -1,0 +1,715 @@
+{
+  "_about": "Campaign cards (homepage strip, 3D boulevard and Campaigns page) and the four case-study pages. Figures are copied exactly from the sourceUrl page or report image. `published: false` hides a record without deleting it.",
+  "intro": {
+    "eyebrow": "Our Campaigns",
+    "title": "Powering conversations across platforms",
+    "lead": "Films, web series and shows we put in the conversation through content, influencers and trends.",
+    "sourceUrl": "https://credtechsolutions.com/our-campaign/"
+  },
+  "items": [
+    {
+      "id": "kashmir",
+      "title": "The Kashmir Files",
+      "chip": "Film",
+      "short": "Hashtag-led campaign with influencers and consistent posting.",
+      "highlight": "Hashtags trended at No. 1",
+      "description": "The campaign for The Kashmir Files boosted the film's visibility through strategic content creation, consistent posting and influencer engagement. It combined humour, emotional appeal and trending hashtags to make the campaign memorable and relatable, which led to high interaction, widespread discussion and strong resonance across social platforms. Hashtags trended at No. 1, showing the campaign's extensive reach.",
+      "poster": "posters-kashmir",
+      "posterAlt": "The Kashmir Files poster",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/",
+      "reviewNote": "On /our-campaign/ this poster is paired with a web-series description. The homepage film description is used here."
+    },
+    {
+      "id": "badanaam",
+      "title": "Bada Naam Karenge",
+      "chip": "Sony LIV Originals",
+      "short": "Multi-platform push with meme pages and regional influencers.",
+      "highlight": "270M+ audience",
+      "description": "Credtech executed the Bada Naam Karenge campaign for Sony LIV Originals and created a viral wave across social platforms. Strategic content, consistent posting and influencer engagement boosted visibility, while humour, emotional appeal and trending hashtags made the campaign memorable. Hashtags trended at No. 1, and the multi-platform strategy positioned the show as a cultural and social talking point.",
+      "poster": "posters-badanaam",
+      "posterAlt": "Bada Naam Karenge poster, Sony LIV Originals",
+      "caseStudy": "bada-naam-karenge",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/bada-naam-karenge/"
+    },
+    {
+      "id": "harikatha",
+      "title": "Harikatha",
+      "chip": "Hotstar",
+      "short": "Instagram and X trend campaign that beat its reach targets.",
+      "highlight": "6.2M total reach",
+      "description": "The Harikatha on Hotstar campaign surpassed its targets on Instagram and X (Twitter). On Instagram it reached over 78 lakh people against a target of 70 lakh, through 35 posts from 35 pages, generating 8.35 lakh views. On X it engaged over 17 lakh people against a 15 lakh target, with 38 posts from 38 influencers, and #HarikathaonHotstar trended at No. 1 nationally for over an hour with 84 lakh impressions. In total the campaign reached 6,202,871 people with 8,452,720 impressions and 2,155 tweets from 1,527 users.",
+      "poster": "posters-harikatha",
+      "posterAlt": "Harikatha poster, Hotstar Specials",
+      "caseStudy": "hari-katha",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/our-campaign/"
+    },
+    {
+      "id": "tanaav",
+      "title": "Tanaav 2",
+      "chip": "Sony LIV",
+      "short": "Multi-platform reach with two hashtags in the top 2.",
+      "highlight": "1.16 Cr impressions",
+      "description": "The Sony LIV Tanaav 2 campaign had an extensive social media reach, using multiple platforms to boost engagement, generate trends and increase viewership for the show. Total views and reach came to 3.47 crore, and #TanaavOnSonyLiv trended in the top 2 with 1.16 crore impressions.",
+      "poster": "posters-tanaav",
+      "posterAlt": "Tanaav 2 campaign report cover",
+      "caseStudy": "tanaav-2",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/tanaav-2/"
+    },
+    {
+      "id": "thalaivi",
+      "title": "Thalaivi",
+      "chip": "Film",
+      "short": "Third-party page partnerships and influencer networks.",
+      "description": "The social media promotion of Thalaivi achieved substantial reach and engagement through a well-executed content strategy. High-performing posts reflected strong audience interest and interaction. The campaign used popular third-party pages such as “I Support Narendra Modi” and “The Chaupal” to amplify visibility among targeted audiences. Tailored content, regional relevance and emotional appeal drove conversations and created buzz around the film, showing the power of influencer networks and targeted page partnerships.",
+      "poster": "posters-thalaivi",
+      "posterAlt": "Thalaivi poster",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/"
+    },
+    {
+      "id": "rocketboys",
+      "title": "Rocket Boys",
+      "chip": "Web series",
+      "short": "Influencers, humour and a consistent posting schedule.",
+      "description": "The Rocket Boys web series campaign achieved significant reach and engagement across multiple platforms through a strategic mix of content formats and a consistent posting schedule. Influencers generated buzz, while humorous and relatable creatives made the campaign more memorable. Strategic planning enhanced the show's visibility and drove high audience interaction.",
+      "poster": "posters-rocketboys",
+      "posterAlt": "Rocket Boys poster, Sony LIV",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/"
+    },
+    {
+      "id": "maharani",
+      "title": "Maharani Season 2",
+      "chip": "Web series",
+      "short": "Character-led storytelling on Facebook, Instagram and X.",
+      "highlight": "Exceeded its targets",
+      "description": "The promotion of Maharani Season 2 succeeded across Facebook, Instagram and X (Twitter), driven by strategic content creation and influencer collaborations. The campaign exceeded its performance targets, showing a deep understanding of audience behaviour and platform trends. Engaging videos, character-led storytelling and interactive posts produced a significant rise in reach and engagement.",
+      "poster": "posters-maharani",
+      "posterAlt": "Maharani poster, Sony LIV",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/",
+      "reviewNote": "The copy says Season 2 but the poster used on the live site is for Maharani 3."
+    },
+    {
+      "id": "freedom",
+      "title": "Freedom at Midnight",
+      "chip": "Sony LIV",
+      "short": "Emotional storytelling with verified and grassroots influencers.",
+      "description": "The Freedom at Midnight campaign used emotional storytelling, striking visuals and both verified and grassroots influencers to spark widespread conversation. Custom content, from banners to reels, was tailored to each platform for consistent engagement. Powerful messaging and trending hashtags boosted visibility and built a strong emotional connection with the audience, positioning the release as socially relevant and buzzworthy.",
+      "poster": "posters-freedom",
+      "posterAlt": "Freedom at Midnight poster, Sony LIV Originals",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/our-campaign/",
+      "reviewNote": "The live copy calls it “Freedom at Night”. The title was corrected to match the poster.",
+      "videos": [
+        {
+          "channel": "Ajeet Bharti",
+          "views": "150k",
+          "url": "https://youtu.be/hGbjmzntnZU?si=d-iMB38V24_dIus6"
+        },
+        {
+          "channel": "Palat Tera Dhyan Kidhar Hai",
+          "views": "37k",
+          "url": "https://youtu.be/f1zu7F_w4I8?si=REpuQrtqAnGj2EgR"
+        },
+        {
+          "channel": "The Alternate Media",
+          "views": "36k",
+          "url": "https://www.youtube.com/live/5VmlrTxv7Zg?si=tAMPlOWyvdMB6lm7"
+        },
+        {
+          "channel": "The Jaipur Dialogues",
+          "views": "32k",
+          "url": "https://youtu.be/4VtW9zLSmUo?si=UVJ-Sw15B4gNp7n2"
+        },
+        {
+          "channel": "सत्य सनातन",
+          "views": "19k",
+          "url": "https://youtu.be/9jmPgjtFGB4?si=HGrPT498O1rMUdw1"
+        },
+        {
+          "channel": "The Abhishek Tiwari Show",
+          "views": "14k",
+          "url": "https://www.youtube.com/live/WZQCMWa5fp0?si=XVnI_5wkYpUfKsmQ"
+        },
+        {
+          "channel": "Anju Pankaj",
+          "views": "11k",
+          "url": "https://youtu.be/LWsuuXGooNg?si=wVh8sBgiILNitC8c"
+        }
+      ],
+      "videosPublished": false,
+      "videosNote": "The live Hari Katha page lists these seven YouTube videos (with view counts) as Harikatha campaign releases, but every video is a review of Freedom at Midnight (checked via YouTube on 17 Oct 2026). They were removed from the Harikatha case study. Set videosPublished to true to show them under Freedom at Midnight once Credtech confirms they belong to that campaign."
+    },
+    {
+      "id": "sharktank",
+      "title": "Shark Tank India",
+      "chip": "TV show",
+      "short": "Meme marketing, short-form video and influencer collaborations.",
+      "highlight": "43M+ reach",
+      "description": "The Shark Tank India campaign delivered strong results across Facebook, Instagram and X (Twitter) with dynamic content, influencer collaborations and interactive strategies. Short-form videos, behind-the-scenes clips and real-time reactions sparked conversations and built excitement. The campaign surpassed its engagement goals, expanded reach and generated viral buzz. Content tailored to each platform and to entrepreneurial communities positioned Shark Tank India as a must-watch TV show.",
+      "poster": "posters-sharktank",
+      "posterAlt": "Shark Tank India logo",
+      "caseStudy": "shark-tank-india-s2",
+      "published": true,
+      "sourceUrl": "https://credtechsolutions.com/",
+      "reviewNote": "The /our-campaign/ card for Shark Tank India repeats the Harikatha figures in future tense. Those figures were not migrated. The 43M+ reach comes from the Season 2 report slide on /shark-tank-2/."
+    },
+    {
+      "id": "rakshak",
+      "title": "Rakshak (New Season)",
+      "chip": "Campaign",
+      "short": "",
+      "poster": "posters-rakshak",
+      "posterAlt": "Rakshak New Season poster",
+      "published": false,
+      "sourceUrl": "https://credtechsolutions.com/our-campaign/",
+      "reviewNote": "The live card shows the Rakshak poster but its description is a copy of the Maharani S2 text. Hidden until real campaign details are supplied."
+    }
+  ],
+  "results": [
+    {
+      "id": "tanaav",
+      "image": "results-tanaav",
+      "alt": "Twitter trend report: #TanaavOnSonyLiv trended in the top 2 with 1.16 crore impressions",
+      "stat": "Top 2 in India",
+      "text": "#TanaavOnSonyLiv trended with 1.16 crore impressions.",
+      "caseStudy": "tanaav-2",
+      "sourceUrl": "https://credtechsolutions.com/tanaav-2/"
+    },
+    {
+      "id": "harikatha",
+      "image": "results-harikatha",
+      "alt": "Harikatha trend overview: 6,202,871 total reach, 8,452,720 total impressions, 2,155 tweets, 1,527 users",
+      "stat": "6.2M reach",
+      "text": "Harikatha trend: 8.45M impressions, trending for over an hour.",
+      "caseStudy": "hari-katha",
+      "sourceUrl": "https://credtechsolutions.com/hari-katha/"
+    },
+    {
+      "id": "badanaam",
+      "image": "results-badanaam-outcome",
+      "alt": "Bada Naam Karenge outcome slide: audience 270M+, views 20M+",
+      "stat": "270M+ audience",
+      "text": "Bada Naam Karenge: 2.08 crore total views.",
+      "caseStudy": "bada-naam-karenge",
+      "sourceUrl": "https://credtechsolutions.com/bada-naam-karenge/"
+    },
+    {
+      "id": "sharktank",
+      "image": "results-sharktank-outcome",
+      "alt": "Shark Tank India S2 outcome slide: reach 43M+, views 13M+",
+      "stat": "43M+ reach",
+      "text": "Shark Tank India S2: 13M+ views from meme-led content.",
+      "caseStudy": "shark-tank-india-s2",
+      "sourceUrl": "https://credtechsolutions.com/shark-tank-2/"
+    }
+  ],
+  "caseStudies": [
+    {
+      "slug": "tanaav-2",
+      "title": "Tanaav 2 on Sony LIV",
+      "eyebrow": "Case study · Sony LIV",
+      "seo": {
+        "title": "Tanaav 2 Campaign Report",
+        "description": "How Credtech's multi-platform campaign for Sony LIV's Tanaav 2 reached 3.47 crore views and put two hashtags in India's top 2 trends."
+      },
+      "hero": "cases-tanaav-hero",
+      "heroAlt": "Tanaav 2 Sony LIV Originals key art",
+      "summary": [
+        "The Sony LIV Tanaav 2 campaign had an extensive social media reach, using multiple platforms to boost engagement, generate trends and increase viewership for the show."
+      ],
+      "stats": [
+        {
+          "value": "3.47 Cr",
+          "label": "Total views and reach"
+        },
+        {
+          "value": "1.16 Cr",
+          "label": "Impressions, #TanaavOnSonyLiv"
+        },
+        {
+          "value": "8150+",
+          "label": "Facebook posts"
+        },
+        {
+          "value": "95+",
+          "label": "Influencer tweets"
+        }
+      ],
+      "blocks": [
+        {
+          "heading": "Reach and engagement",
+          "rows": [
+            [
+              "Total views and reach",
+              "3.47 Crore"
+            ],
+            [
+              "Cumulative audience on Facebook",
+              "8 Crore+"
+            ],
+            [
+              "Cumulative audience on Instagram",
+              "9 Crore+"
+            ],
+            [
+              "Cumulative audience on Twitter",
+              "45 Lakh+"
+            ],
+            [
+              "Facebook posts",
+              "8150+"
+            ],
+            [
+              "Instagram posts",
+              "190+"
+            ],
+            [
+              "Twitter influencer tweets",
+              "95+"
+            ]
+          ]
+        },
+        {
+          "heading": "Facebook",
+          "rows": [
+            [
+              "Target audience",
+              "8 Crore+"
+            ],
+            [
+              "Video and story views",
+              "65 Lakh+"
+            ],
+            [
+              "Posts",
+              "8150+"
+            ],
+            [
+              "Total video views",
+              "40 Lakh+"
+            ]
+          ]
+        },
+        {
+          "heading": "Instagram",
+          "rows": [
+            [
+              "Target audience",
+              "9 Crore+"
+            ],
+            [
+              "Reach and views",
+              "80 Lakh+"
+            ],
+            [
+              "Posts",
+              "190+"
+            ],
+            [
+              "Stories and reels",
+              "High performing"
+            ]
+          ]
+        },
+        {
+          "heading": "Twitter",
+          "rows": [
+            [
+              "Total audience reach",
+              "45 Lakh+"
+            ],
+            [
+              "Total views",
+              "7.16 Lakh"
+            ],
+            [
+              "Influencer tweets",
+              "95+"
+            ],
+            [
+              "Trending hashtags",
+              "#TanaavOnSonyLiv, #Tanaav2OnSonyLiv"
+            ]
+          ]
+        },
+        {
+          "heading": "Top performing hashtags",
+          "rows": [
+            [
+              "#TanaavOnSonyLiv",
+              "1.16 Crore impressions · Top 2"
+            ],
+            [
+              "#Tanaav2OnSonyLiv",
+              "89.4 Lakh impressions · Top 2"
+            ]
+          ]
+        }
+      ],
+      "gallery": [
+        {
+          "image": "cases-tanaav-1",
+          "alt": "Campaign summary table with totals for Facebook, Instagram and Twitter"
+        },
+        {
+          "image": "cases-tanaav-2",
+          "alt": "Planned target versus achieved target table"
+        },
+        {
+          "image": "cases-tanaav-10",
+          "alt": "Twitter Trend 1: #TanaavOnSonyLiv trended in the top 2 with 1.16 crore impressions"
+        },
+        {
+          "image": "cases-tanaav-9",
+          "alt": "Twitter Trend 2: #Tanaav2OnSonyLiv trended in the top 2 with 89.4 lakh impressions"
+        },
+        {
+          "image": "cases-tanaav-3",
+          "alt": "Good performing Facebook posts"
+        },
+        {
+          "image": "cases-tanaav-4",
+          "alt": "Facebook video posts with view counts"
+        },
+        {
+          "image": "cases-tanaav-5",
+          "alt": "Influencer tweets about Tanaav 2"
+        },
+        {
+          "image": "cases-tanaav-6",
+          "alt": "Influencer tweets with Tanaav 2 stills"
+        },
+        {
+          "image": "cases-tanaav-7",
+          "alt": "Instagram reels with view counts"
+        },
+        {
+          "image": "cases-tanaav-8",
+          "alt": "Influencer tweets with Tanaav 2 creatives"
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/tanaav-2/",
+      "sourceModified": "2025-08-02T13:27:13"
+    },
+    {
+      "slug": "hari-katha",
+      "title": "Harikatha on Hotstar",
+      "eyebrow": "Case study · Hotstar",
+      "seo": {
+        "title": "Harikatha Campaign Report",
+        "description": "Harikatha on Hotstar: 6,202,871 total reach, 8,452,720 impressions and a No. 1 national trend for over an hour."
+      },
+      "hero": "cases-harikatha-hero",
+      "heroAlt": "Harikatha campaign report cover",
+      "summary": [
+        "This campaign used the power of social media to promote Harikatha on Hotstar, driving audience engagement and viewership. With strong results on Instagram and X (Twitter), it expanded the show's reach and created significant buzz.",
+        "On Instagram the campaign reached over 78 lakh people, beating its 70 lakh target, through 35 posts from 35 different pages that generated 8.35 lakh views. On X it engaged over 17 lakh people, beating its 15 lakh target, with 38 posts from 38 influencers. #HarikathaonHotstar trended at No. 1 nationally for over an hour with 84 lakh impressions. Total cumulative views and reach, excluding the trend, came to 10.95 lakh."
+      ],
+      "stats": [
+        {
+          "value": "6,202,871",
+          "label": "Total reach"
+        },
+        {
+          "value": "8,452,720",
+          "label": "Total impressions"
+        },
+        {
+          "value": "2,155",
+          "label": "Tweets from 1,527 users"
+        },
+        {
+          "value": "1 hr+",
+          "label": "Trending at No. 1"
+        }
+      ],
+      "gallery": [
+        {
+          "image": "cases-harikatha-1",
+          "alt": "Trend overview: 6,202,871 total reach and 8,452,720 total impressions"
+        },
+        {
+          "image": "cases-harikatha-4",
+          "alt": "Twitter Trend 1: #HariKathaonHotstar trended at the top with 84.52 lakh impressions"
+        },
+        {
+          "image": "cases-harikatha-2",
+          "alt": "Influencer tweets promoting Harikatha"
+        },
+        {
+          "image": "cases-harikatha-3",
+          "alt": "More influencer tweets promoting Harikatha"
+        }
+      ],
+      "cta": {
+        "label": "Watch Harikatha on Hotstar",
+        "url": "https://www.hotstar.com"
+      },
+      "sourceUrl": "https://credtechsolutions.com/hari-katha/",
+      "sourceModified": "2025-08-02T17:05:51",
+      "reviewNote": "The live page also listed seven YouTube “top performers” (Ajeet Bharti 150k, Palat Tera Dhyan Kidhar Hai 37k, and others). Those videos are Freedom at Midnight reviews, so they were moved to the freedom campaign record and hidden pending confirmation."
+    },
+    {
+      "slug": "shark-tank-india-s2",
+      "title": "Shark Tank India Season 2",
+      "eyebrow": "Case study · Social media campaign report",
+      "seo": {
+        "title": "Shark Tank India S2 Campaign Report",
+        "description": "Meme marketing, influencer partnerships and buzz generation for Shark Tank India Season 2: 43M+ reach and 13M+ views."
+      },
+      "hero": "cases-sharktank-hero",
+      "heroAlt": "Shark Tank India campaign report cover with illustrated sharks",
+      "summary": [
+        "This report captures the objectives, strategies and outcomes of the social media campaign for Shark Tank India Season 2. It shows how meme marketing, influencer partnerships and buzz-generation tactics resonated with audiences across platforms, driving engagement and awareness for the show."
+      ],
+      "stats": [
+        {
+          "value": "43M+",
+          "label": "Reach"
+        },
+        {
+          "value": "13M+",
+          "label": "Views"
+        },
+        {
+          "value": "8 Cr",
+          "label": "Cumulative Facebook audience"
+        },
+        {
+          "value": "2",
+          "label": "Twitter trends"
+        }
+      ],
+      "objectives": [
+        {
+          "title": "Create buzz",
+          "text": "Create buzz about the show and entice viewers to tune in. Seeding activities helped viewers connect with the programme and increased their desire to watch it."
+        },
+        {
+          "title": "Exposure",
+          "text": "Generate exposure among different age groups on social media, so the programme's following and reputation would grow, inviting new start-ups to compete for a spot on the show."
+        },
+        {
+          "title": "Bringing humour to trials",
+          "text": "The show had an image of judges roasting new businesses. The meme marketing campaign aimed to add a cordial, witty context while preserving the show's serious tone."
+        }
+      ],
+      "table": {
+        "heading": "Target versus achieved",
+        "columns": [
+          "Metric",
+          "Target",
+          "Achieved"
+        ],
+        "rows": [
+          [
+            "Cumulative Facebook audience",
+            "7 Crore likes",
+            "8 Crore"
+          ],
+          [
+            "Number of pages",
+            "40",
+            "40"
+          ],
+          [
+            "FB pages story views",
+            "1 Crore",
+            "1.40 Crore"
+          ],
+          [
+            "FB pages banner reach",
+            "20 Lakh",
+            "1.17 Crore"
+          ],
+          [
+            "FB video views on reels and posts",
+            "20 Lakh",
+            "1.07 Crore"
+          ],
+          [
+            "Facebook banner posts",
+            "",
+            "565"
+          ],
+          [
+            "Facebook reel posts",
+            "",
+            "530"
+          ],
+          [
+            "Instagram posts (big accounts)",
+            "10 posts",
+            "21"
+          ],
+          [
+            "Instagram stories (big accounts)",
+            "10 stories",
+            "10"
+          ],
+          [
+            "Mid-size active pages",
+            "30 posts",
+            "47"
+          ],
+          [
+            "Twitter verified tweets",
+            "20 tweets",
+            "55"
+          ],
+          [
+            "Non-verified influencers",
+            "30 tweets",
+            "30"
+          ],
+          [
+            "Twitter trends",
+            "2 trends",
+            "2 trends"
+          ]
+        ],
+        "sourceNote": "Transcribed from the “Outcome” report slide published on the live case study page."
+      },
+      "reception": {
+        "heading": "Love from people",
+        "bullets": [
+          "The campaign drew a wholehearted, positive response because people could relate to the content.",
+          "Engagement rose in the comments, where people agreed with the posts and also shared their own stories.",
+          "Witty responses to the judges' reactions and observations showed how Generation Z would feel in a similar situation.",
+          "Both individuals and professionals backed the witty, relatable elements of the content.",
+          "People engaged more with meme content, which left a witty yet serious impression of the show.",
+          "Since the campaign began, more people have learned about the programme and associate it with the humorous situations they meet every day."
+        ]
+      },
+      "gallery": [
+        {
+          "image": "cases-sharktank-1",
+          "alt": "Objectives slide: create buzz, exposure, bringing humour to trials"
+        },
+        {
+          "image": "cases-sharktank-2",
+          "alt": "Outcome slide with target and achieved figures"
+        },
+        {
+          "image": "cases-sharktank-3",
+          "alt": "Outcome slide: reach 43M+, views 13M+"
+        },
+        {
+          "image": "cases-sharktank-4",
+          "alt": "Love from people slide with audience response highlights"
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/shark-tank-2/",
+      "sourceModified": "2025-08-01T16:07:31"
+    },
+    {
+      "slug": "bada-naam-karenge",
+      "title": "Bada Naam Karenge",
+      "eyebrow": "Case study · Sony LIV Originals",
+      "seo": {
+        "title": "Bada Naam Karenge Campaign Report",
+        "description": "How Credtech's campaign for Sony LIV Originals' Bada Naam Karenge reached a 270M+ audience with 2.08 crore views."
+      },
+      "hero": "cases-badanaam-hero",
+      "heroAlt": "Bada Naam Karenge campaign report cover",
+      "summary": [
+        "Credtech Solutions executed the Bada Naam Karenge campaign and created a viral wave across social media platforms. With an audience of 270M+, it is one of our standout digital marketing achievements.",
+        "The campaign for Sony LIV Originals achieved significant reach and engagement on Instagram, Facebook and Twitter, and used WhatsApp for sharing. It focused on relatable, family-friendly content, often comparing the show to classics and highlighting its clean, non-violent storytelling. Top meme pages and regional influencers connected it with a diverse audience."
+      ],
+      "stats": [
+        {
+          "value": "270M+",
+          "label": "Audience"
+        },
+        {
+          "value": "2.08 Cr",
+          "label": "Total views"
+        },
+        {
+          "value": "19.3 Cr",
+          "label": "Cumulative Instagram audience"
+        },
+        {
+          "value": "700+",
+          "label": "WhatsApp group posts"
+        }
+      ],
+      "blocks": [
+        {
+          "heading": "Key highlights and metrics",
+          "rows": [
+            [
+              "Audience",
+              "270M+"
+            ],
+            [
+              "Total views",
+              "2.08 Crore"
+            ],
+            [
+              "Cumulative Instagram audience",
+              "19.3 Crore"
+            ],
+            [
+              "Instagram views",
+              "1.89 Crore"
+            ],
+            [
+              "Facebook cumulative audience",
+              "8 Crore"
+            ],
+            [
+              "Total Facebook video views",
+              "20 Lakh+"
+            ],
+            [
+              "WhatsApp group posts",
+              "700+"
+            ]
+          ]
+        }
+      ],
+      "reception": {
+        "heading": "Audience reception",
+        "paras": [
+          "Viewers praised the show for its meaningful, clean content, its emotional depth and relatable storytelling. Many compared it to Rajshri Productions' earlier work and commented on the acting, the direction and its family-friendly feel on OTT. The campaign's appeal to a broad, family-oriented audience proved successful."
+        ]
+      },
+      "gallery": [
+        {
+          "image": "cases-badanaam-5",
+          "alt": "Outcome slide: audience 270M+, views 20M+"
+        },
+        {
+          "image": "cases-badanaam-6",
+          "alt": "Total views table: 2.08 crore"
+        },
+        {
+          "image": "cases-badanaam-4",
+          "alt": "Best performing Instagram reels, top reel at 963K views"
+        },
+        {
+          "image": "cases-badanaam-3",
+          "alt": "Best performing Instagram posts"
+        },
+        {
+          "image": "cases-badanaam-2",
+          "alt": "Instagram posts with view counts"
+        },
+        {
+          "image": "cases-badanaam-1",
+          "alt": "Influencer tweets about Bada Naam Karenge"
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/bada-naam-karenge/",
+      "sourceModified": "2025-08-01T15:43:43",
+      "reviewNote": "The live page labels 270M+ as both “reach” and “audience views”, and the report slide says “Audience 270M+, Views 20M+”. The site uses “audience” for 270M+ and 2.08 crore for views. The page also contained stray “[cite_start]” markers, which were removed."
+    }
+  ]
+}
