@@ -133,6 +133,8 @@ if (!preview) {
   const ga = !!site.analytics.ga4;
   const origin = (u) => { try { return new URL(u).origin; } catch { return ''; } };
   const formOrigins = [...new Set([site.forms.endpoint, site.forms.careersEndpoint].map(origin).filter(Boolean))];
+  // Apps Script answers with a redirect to script.googleusercontent.com, and CSP applies to redirects too.
+  if (formOrigins.includes('https://script.google.com')) formOrigins.push('https://script.googleusercontent.com');
   const csp = [
     "default-src 'self'",
     `script-src 'self' ${[...hashes].join(' ')}${ga ? ' https://www.googletagmanager.com' : ''}`.trim(),
@@ -156,6 +158,7 @@ if (!preview) {
     ['Permissions-Policy', 'camera=(), microphone=(), geolocation=(), payment=(), usb=()'],
     ['Cross-Origin-Opener-Policy', 'same-origin'],
   ];
+  fs.writeFileSync(path.join(OUT, '_headers'), '/*\n' + secHeaders.map(([k, v]) => `  ${k}: ${v}`).join('\n') + '\n');
   fs.writeFileSync(path.join(OUT, 'vercel.json'), JSON.stringify({ cleanUrls: false, trailingSlash: true, headers: [{ source: '/(.*)', headers: secHeaders.map(([key, value]) => ({ key, value })) }], redirects: uniq.map(([a, b]) => ({ source: a.replace('/*', '/:path*'), destination: b, permanent: true })) }, null, 1));
   fs.writeFileSync(path.join(OUT, '.htaccess'), 'ErrorDocument 404 /404.html\nOptions -Indexes\nRewriteEngine On\nRewriteRule (^|/)\\.(?!well-known) - [F]\n' + uniq.map(([a, b]) => a.endsWith('/*') ? `RedirectMatch 301 ^${a.slice(0, -1)}.*$ ${b}` : `Redirect 301 ${a} ${b}`).join('\n') + '\n' +
     '<IfModule mod_expires.c>\nExpiresActive On\nExpiresByType image/webp "access plus 1 year"\nExpiresByType image/png "access plus 1 year"\nExpiresByType image/jpeg "access plus 1 year"\nExpiresByType text/css "access plus 1 week"\nExpiresByType application/javascript "access plus 1 week"\n</IfModule>\n' +

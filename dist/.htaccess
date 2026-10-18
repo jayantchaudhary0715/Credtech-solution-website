@@ -37,7 +37,7 @@ ExpiresByType text/css "access plus 1 week"
 ExpiresByType application/javascript "access plus 1 week"
 </IfModule>
 <IfModule mod_headers.c>
-Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'sha256-pwxGLHz2ww9Fb1OMpo72qpIrr+gd9A5qJ4erId6yMj8='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'; frame-src https://calendar.google.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'sha256-pwxGLHz2ww9Fb1OMpo72qpIrr+gd9A5qJ4erId6yMj8='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://script.google.com https://script.googleusercontent.com; frame-src https://calendar.google.com; object-src 'none'; base-uri 'self'; form-action 'self' https://script.google.com https://script.googleusercontent.com; frame-ancestors 'none'; upgrade-insecure-requests"
 Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
 Header always set X-Content-Type-Options "nosniff"
 Header always set X-Frame-Options "DENY"

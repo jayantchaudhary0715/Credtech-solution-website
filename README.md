@@ -70,7 +70,7 @@ This is a one-time content migration. Nothing syncs from WordPress automatically
 
 `dist/` is a plain static folder.
 
-* **Netlify / Cloudflare Pages:** publish directory `dist`, build command `node build.mjs`. `_redirects` is picked up automatically.
+* **Netlify / Cloudflare Pages:** publish directory `dist`, build command `node build.mjs`. `_redirects` and `_headers` (security headers) are picked up automatically.
 * **Vercel:** deploy the `dist` folder itself (`vercel deploy dist`); the `vercel.json` inside it holds the redirects.
 * **Apache / cPanel (where WordPress runs today):** upload the contents of `dist/` to the web root. `.htaccess` holds the redirects, 404 page and caching rules. Back up and remove WordPress first.
 
