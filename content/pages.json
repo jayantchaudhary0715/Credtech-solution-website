@@ -1,0 +1,301 @@
+{
+  "_about": "Copy for the homepage and the standalone pages. Edited for grammar from each sourceUrl; claims and figures are unchanged.",
+  "home": {
+    "seo": {
+      "title": "Credtech Solutions | Digital Marketing and PR Agency in Delhi NCR",
+      "description": "Credtech Solutions is a digital marketing and PR agency in Noida, Delhi NCR. Social media management, amplification, public relations, reputation management and influencer campaigns."
+    },
+    "hero": {
+      "eyebrow": "Digital Marketing & PR Agency, Delhi NCR",
+      "titleA": "Connect with your audience.",
+      "titleEm": "Amplify",
+      "titleB": "what matters.",
+      "lead": "Social media, PR, online reputation and influencer campaigns for films, brands and public leaders. Our network reaches an audience of about 150 million people across Facebook, Instagram, X and YouTube.",
+      "stats": [
+        {
+          "value": "150M",
+          "label": "Audience across our networks, approx.",
+          "sourceUrl": "https://credtechsolutions.com/"
+        },
+        {
+          "value": "1.16 Cr",
+          "label": "Impressions, #TanaavOnSonyLiv",
+          "sourceUrl": "https://credtechsolutions.com/tanaav-2/"
+        },
+        {
+          "value": "270M+",
+          "label": "Audience, Bada Naam Karenge",
+          "sourceUrl": "https://credtechsolutions.com/bada-naam-karenge/"
+        }
+      ],
+      "slidesSourceUrl": "https://credtechsolutions.com/",
+      "slidesNote": "The headline combines the three live hero slides: “Connect with your audience”, “Give life to your brand” and “Analyze & Amplify”."
+    },
+    "about": {
+      "eyebrow": "About Credtech",
+      "titleA": "A Noida team that turns",
+      "titleEm": "attention into trust.",
+      "paras": [
+        "Credtech is a digital marketing firm in Delhi NCR. Through Social Media Management, Social Amplification, Public Relations and Advocacy, we help people and brands across many industries reach their goals.",
+        "From politics and entertainment to technology, healthcare and education, we have worked with a broad range of clients to create campaigns that speak to their audiences."
+      ],
+      "tags": [
+        "Politics",
+        "Entertainment",
+        "Technology",
+        "Healthcare",
+        "Education"
+      ],
+      "sourceUrl": "https://credtechsolutions.com/"
+    },
+    "services": {
+      "eyebrow": "Our Services",
+      "titleA": "Nine ways we get your brand",
+      "titleEm": "seen and trusted."
+    },
+    "campaigns": {
+      "eyebrow": "Our Campaigns",
+      "titleA": "Films and shows we",
+      "titleEm": "put in the conversation.",
+      "hint": "Click a billboard in the city or a poster below."
+    },
+    "results": {
+      "eyebrow": "Results",
+      "titleA": "Real numbers from",
+      "titleEm": "real campaign reports."
+    },
+    "clients": {
+      "eyebrow": "Clients",
+      "titleA": "Channels, brands and institutions",
+      "titleEm": "that trust us."
+    },
+    "plans": {
+      "eyebrow": "Plans & Packages",
+      "titleA": "Three plans.",
+      "titleEm": "Grow at your pace.",
+      "consult": "Not sure which plan fits?",
+      "consultLink": "Book a free consultation"
+    },
+    "contact": {
+      "eyebrow": "Connect With Us",
+      "titleA": "Ready to be the next thing",
+      "titleEm": "people talk about?",
+      "lead": "Tell us about your brand, film or campaign and what you would like audited, from social pages to your online reputation. Our team will get back to you.",
+      "formEyebrow": "Free audit",
+      "formTitle": "Get your free audit now"
+    }
+  },
+  "about": {
+    "seo": {
+      "title": "About Credtech Solutions",
+      "description": "Credtech Solutions is a PR and digital communications agency in Noida with 90% client retention, serving government, entertainment and corporate clients across India."
+    },
+    "eyebrow": "About us",
+    "title": "India's fast-growing PR and digital communications agency with 90% client retention",
+    "lead": "Building stories. Shaping narratives. Empowering brands.",
+    "why": {
+      "heading": "Why Credtech Solutions?",
+      "paras": [
+        "We believe that real marketing success means pairing reliable, trustworthy communication with modern marketing technology. Our name says it: we earn credibility for brands while using the latest digital tools to deliver meaningful marketing and PR results."
+      ]
+    },
+    "story": {
+      "paras": [
+        "We are a collective of forward-thinking minds in social media, public relations and media strategy, and we have been setting new standards in communication and digital marketing since we started.",
+        "We have a presence across India, with end-to-end support for clients in Delhi, Mumbai, Bengaluru, Hyderabad and Jaipur, and we are expanding to the rest of the country."
+      ]
+    },
+    "growth": {
+      "heading": "Our growth story",
+      "items": [
+        {
+          "value": "90%",
+          "label": "Client retention, a testament to trust, transparency and transformation"
+        },
+        {
+          "value": "50+",
+          "label": "Clients across government, entertainment and corporate sectors"
+        },
+        {
+          "value": "50+",
+          "label": "Successful campaigns across India"
+        }
+      ],
+      "note": "Recognised as one of the fastest-growing agencies in the new-age communications space."
+    },
+    "pillars": [
+      {
+        "heading": "Strategic thinkers, creative doers",
+        "text": "We are your growth partners. By blending performance-driven digital strategy with powerful storytelling, we build campaigns that are as measurable as they are memorable. From concept to conversion, our team works with purpose to lift your brand above the noise."
+      },
+      {
+        "heading": "Where insight fuels imagination",
+        "text": "We bring data to life. Our campaigns start where analytics meets creativity, so every idea is backed by insight and designed to make your audience feel, think and act. Whether we are building your brand or amplifying your reach, we turn strategy into stories that stick."
+      },
+      {
+        "heading": "Trusted by netas and nation-builders",
+        "text": "From boardrooms to ballot boxes, we have partnered with ministries, political leaders and major brands to craft narratives that move people and votes. Whether it is a state-wide campaign or sensitive communication that must stay compliant, we turn complex agendas into clear, compelling stories."
+      },
+      {
+        "heading": "Your party's secret weapon",
+        "text": "From ministerial meetings to mission-mode messaging, we help leaders speak to the public in a language that sticks. No jargon and no drama, just clear, compliant communication that connects."
+      }
+    ],
+    "government": {
+      "heading": "Credibility where it counts most",
+      "paras": [
+        "With a track record that includes ministries, political leaders and top-tier brands, we bring political precision, strategic storytelling and compliant communication to the table, whether we are crafting narratives that win hearts or managing crises before they hit the headlines.",
+        "In the public sector we work by three Cs: Compliance, Clarity and Communication. We play by the rules, and we know how to make government communication more engaging and more impactful."
+      ]
+    },
+    "capabilities": {
+      "heading": "Marketing and PR that moves the needle",
+      "text": "We combine creativity, strategy and results-driven execution to boost your brand's voice across every platform.",
+      "items": [
+        "Social Media Marketing",
+        "Public Relations",
+        "Influencer Marketing",
+        "Paid Promotions & Ads",
+        "Content Creation",
+        "Search Engine Optimization (SEO)"
+      ]
+    },
+    "sourceUrl": "https://credtechsolutions.com/about-us/",
+    "sourceModified": "2025-09-29T16:11:51"
+  },
+  "campaignsPage": {
+    "seo": {
+      "title": "Our Campaigns and Case Studies",
+      "description": "Social media campaigns by Credtech Solutions for The Kashmir Files, Bada Naam Karenge, Harikatha, Tanaav 2, Shark Tank India, Maharani, Rocket Boys, Thalaivi and Freedom at Midnight."
+    },
+    "portfolio": {
+      "heading": "Our case studies",
+      "paras": [
+        "We take pride in delivering marketing and public relations strategies that help clients build trustworthy, impactful brands. We have partnered with businesses across industries to create campaigns that resonate, engage and convert."
+      ],
+      "bullets": [
+        "<b>Trusted expertise.</b> Clients rely on us for transparent, results-driven marketing and PR.",
+        "<b>Tailored strategies.</b> Every business is unique, so every plan is built around your goals.",
+        "<b>Proven track record.</b> From startups to established brands, our portfolio shows growth and stronger reputations.",
+        "<b>Innovative approach.</b> We blend creativity with data-driven insight to maximise reach and impact."
+      ],
+      "sourceUrl": "https://credtechsolutions.com/portfolio/"
+    }
+  },
+  "contact": {
+    "seo": {
+      "title": "Contact Credtech Solutions",
+      "description": "Call 766 938 7999, email info@credtechsolutions.com or visit UrbTech Tower, Sector 132, Noida. Request a free audit or schedule a meeting with Credtech Solutions."
+    },
+    "eyebrow": "Contact",
+    "title": "We're here to help",
+    "lead": "Credtech Solutions Private Limited is ready to help with your next project. Whether you have a question about our services, need assistance or want to discuss your business needs, reach out for enquiries, consultations or support.",
+    "formTitle": "Get in touch",
+    "sourceUrl": "https://credtechsolutions.com/contact/"
+  },
+  "schedule": {
+    "seo": {
+      "title": "Schedule a Meeting",
+      "description": "Book a consultation with Credtech Solutions to discuss marketing and PR campaigns that deliver measurable results."
+    },
+    "eyebrow": "Schedule a meeting",
+    "title": "Let's take your brand to the next level",
+    "lead": "Whether you are a startup building a presence or an established business ready to scale, we are here to strategise, create and execute marketing and PR campaigns that deliver measurable results. Schedule a meeting with our team to discuss how we can help you grow smarter and faster.",
+    "howTo": "Choose a time that works for you in our booking calendar. Once you book, you will receive a confirmation and a join link by email.",
+    "expect": {
+      "heading": "What to expect",
+      "bullets": [
+        "A personalised consultation based on your goals",
+        "Insights into how our PR and marketing services can align with your vision",
+        "Expert advice from professionals who have worked across the public and private sectors"
+      ]
+    },
+    "sourceUrl": "https://credtechsolutions.com/schedule-a-meeting/",
+    "board": [
+      {
+        "to": "Consultation",
+        "status": "Boarding",
+        "alt": "Book now"
+      },
+      {
+        "to": "PR and marketing",
+        "status": "On time",
+        "alt": "Planned"
+      },
+      {
+        "to": "Expert advice",
+        "status": "On time",
+        "alt": "Ready"
+      }
+    ],
+    "_boardNote": "Rows on the split-flap board; text comes from the What to expect list. Keep destinations to 16 characters and statuses to 9."
+  },
+  "careers": {
+    "seo": {
+      "title": "Careers at Credtech Solutions",
+      "description": "Apply for social media, PR, media buying and SEO roles at Credtech Solutions in Noida."
+    },
+    "eyebrow": "Careers",
+    "title": "Work with Credtech",
+    "lead": "Send us your details and choose the role you are applying for.",
+    "roles": [
+      "Social Media Manager",
+      "PR Manager",
+      "Media Buyer",
+      "SEO Analyst"
+    ],
+    "sourceUrl": "https://credtechsolutions.com/careers/",
+    "reviewNote": "The live Careers page has only an application form with no job descriptions or CV upload. Roles are taken from its “Apply For” menu."
+  },
+  "privacy": {
+    "seo": {
+      "title": "Privacy Policy",
+      "description": "How Credtech Solutions collects, uses and shares personal information."
+    },
+    "eyebrow": "Privacy Policy",
+    "title": "Our commitment to your privacy",
+    "intro": [
+      "We believe effective marketing and public relations are built on trust and transparency, and that extends to how we handle your personal information. This policy explains what data we collect, why we collect it, how we use it to deliver our services, and your rights regarding your information.",
+      "Your privacy matters to us, and we safeguard your data with the same diligence we apply to every campaign we create."
+    ],
+    "sections": [
+      {
+        "heading": "1. The information we collect",
+        "paras": [
+          "Our goal is to deliver exceptional marketing and PR services, and to do that we collect specific types of information, always with respect for your privacy.",
+          "<b>Information you provide</b>, such as your name, contact details, company information and job title when you enquire about our services, subscribe to our newsletter or become a client. We use it to respond to your needs, manage client relationships and fulfil our service agreements.",
+          "<b>Information collected automatically</b> through your website interactions. This covers non-personally identifiable data such as your IP address, browser type and pages visited, often through cookies and tracking technologies. It helps us understand website usage, improve functionality and optimise our digital presence.",
+          "<b>Information from third-party sources</b>, including publicly available professional contact details from industry databases and social media, used for legitimate purposes such as media outreach, influencer identification and market research, always within ethical and legal boundaries. We collect only what is necessary."
+        ]
+      },
+      {
+        "heading": "2. How we use your information",
+        "paras": [
+          "<b>Service delivery and client management.</b> Running marketing campaigns (digital, content, social media and SEO), managing public relations work (including press releases and media relations), onboarding clients, overseeing projects and providing client support.",
+          "<b>Personalising your experience.</b> Tailoring our communications, proposals and content to your business needs and interests.",
+          "<b>Website and service optimisation.</b> Analysing user interactions to improve functionality and develop new features.",
+          "<b>Communication and outreach.</b> Sending insights and updates, with an easy opt-out, and responding to your enquiries.",
+          "<b>Security and compliance.</b> Protecting our systems, preventing fraud and meeting legal obligations."
+        ]
+      },
+      {
+        "heading": "3. How we share your information",
+        "paras": [
+          "We share your information only when necessary, always with security and purpose in mind.",
+          "<b>Trusted service providers.</b> Partners such as CRM systems, cloud hosts and email marketing platforms that help us run our business and deliver our services. They are carefully vetted and legally bound to protect your data and use it only for the purposes we define.",
+          "<b>Business transfers.</b> In a merger or acquisition, your information may be among the assets transferred, always under strict confidentiality agreements.",
+          "<b>Legal compliance and protection.</b> We may disclose information when required by law, such as a court order or government regulation, or when necessary to protect our rights, property or the safety of our users or the public.",
+          "For any sharing beyond these purposes, we will always ask for your explicit consent."
+        ]
+      }
+    ],
+    "contactLine": "Questions about this policy? Email info@credtechsolutions.com.",
+    "sourceUrl": "https://credtechsolutions.com/privacy-policy/",
+    "sourceModified": "2025-07-17T16:04:26",
+    "reviewNote": "The live policy stops after section 3 in mid-sentence and has no sections on data retention, user rights, cookies consent or grievance contact. Have it reviewed against India's DPDP Act before launch."
+  },
+  "notFound": {
+    "title": "This page moved or no longer exists",
+    "lead": "We rebuilt our website. Use the links below to find what you need."
+  }
+}

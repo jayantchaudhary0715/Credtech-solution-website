@@ -1,0 +1,661 @@
+{
+ "brand-logo": {
+  "src": "assets/img/brand/logo.png",
+  "width": 520,
+  "height": 123,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/01/credtech-white-logo.png",
+  "note": "Live white CredTech logo with the mark recoloured to the brand blue and cyan from the live ct-logo"
+ },
+ "brand-favicon-32": {
+  "src": "assets/img/brand/favicon-32.png",
+  "width": 32,
+  "height": 32,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/02/ct-logo--e1677237601523.png"
+ },
+ "brand-apple-touch-icon": {
+  "src": "assets/img/brand/apple-touch-icon.png",
+  "width": 180,
+  "height": 180,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/02/ct-logo--e1677237601523.png"
+ },
+ "brand-icon-512": {
+  "src": "assets/img/brand/icon-512.png",
+  "width": 512,
+  "height": 512,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/02/ct-logo--e1677237601523.png"
+ },
+ "photos-office-building": {
+  "src": "assets/img/photos/office-building.webp",
+  "width": 1080,
+  "height": 1080,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Credtech-Office-Building.png"
+ },
+ "photos-office-tower": {
+  "src": "assets/img/photos/office-tower.webp",
+  "width": 900,
+  "height": 1100,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Credtech-Office-Building.png",
+  "note": "Crop of the live office photo"
+ },
+ "photos-office-wide": {
+  "src": "assets/img/photos/office-wide.webp",
+  "width": 1200,
+  "height": 900,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Credtech-Office-Building.png",
+  "note": "Crop of the live office photo"
+ },
+ "photos-hero-connect": {
+  "src": "assets/img/photos/hero-connect.webp",
+  "width": 1600,
+  "height": 1163,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Connecting-with-brand-auidience.jpg"
+ },
+ "photos-hero-life": {
+  "src": "assets/img/photos/hero-life.webp",
+  "width": 1600,
+  "height": 1200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Credtech-life-to-ur-brand--scaled.jpg"
+ },
+ "photos-hero-analyse": {
+  "src": "assets/img/photos/hero-analyse.webp",
+  "width": 1600,
+  "height": 900,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Credtech-Analyse-amplify-Ur-network-scaled.jpg"
+ },
+ "photos-contact": {
+  "src": "assets/img/photos/contact.webp",
+  "width": 640,
+  "height": 320,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/contact-us-communication-support-service-assistance-concept-1-640x320.jpg"
+ },
+ "posters-kashmir": {
+  "src": "assets/img/posters/kashmir.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/download-13.jpeg"
+ },
+ "posters-badanaam": {
+  "src": "assets/img/posters/badanaam.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/download-4.jpg"
+ },
+ "posters-harikatha": {
+  "src": "assets/img/posters/harikatha.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Harikatha-on-Hotstar-Report-9-e1754031514474.png"
+ },
+ "posters-thalaivi": {
+  "src": "assets/img/posters/thalaivi.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Kangana-Thalaivi-1.jpeg"
+ },
+ "posters-rocketboys": {
+  "src": "assets/img/posters/rocketboys.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Rocket-Boys-2022%E2%80%93-.jpeg"
+ },
+ "posters-maharani": {
+  "src": "assets/img/posters/maharani.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/download-8.jpeg"
+ },
+ "posters-freedom": {
+  "src": "assets/img/posters/freedom.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/MV5BYTlkYjUzMmMtNzVlNS00MzE5LTg4MWEtOWI5ZjI4ZWNkNmQ3XkEyXkFqcGc@._V1_-1.jpg"
+ },
+ "posters-rakshak": {
+  "src": "assets/img/posters/rakshak.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-21-at-14.27.13_7ce1c18c.jpg"
+ },
+ "posters-sharktank": {
+  "src": "assets/img/posters/sharktank.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/SHARK-TANK-INDIA-2022-Badalte-Bharat-Ki-Nayi-Tasveer-Indian-Broadcast-Network.jpeg"
+ },
+ "posters-tanaav": {
+  "src": "assets/img/posters/tanaav.webp",
+  "width": 460,
+  "height": 690,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/225f5348-a99d-41a9-b7ab-4a35c04bc223.png",
+  "note": "Portrait crop of the live Tanaav 2 report cover"
+ },
+ "results-tanaav": {
+  "src": "assets/img/results/tanaav.webp",
+  "width": 1100,
+  "height": 618,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-113-Edited.png"
+ },
+ "results-harikatha": {
+  "src": "assets/img/results/harikatha.webp",
+  "width": 960,
+  "height": 540,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Harikatha-on-Hotstar-Report-5-1.png"
+ },
+ "results-badanaam-outcome": {
+  "src": "assets/img/results/badanaam-outcome.webp",
+  "width": 1100,
+  "height": 621,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-135-Edited.png"
+ },
+ "results-badanaam-performers": {
+  "src": "assets/img/results/badanaam-performers.webp",
+  "width": 1100,
+  "height": 536,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-141-Edited.png"
+ },
+ "results-sharktank-outcome": {
+  "src": "assets/img/results/sharktank-outcome.webp",
+  "width": 1100,
+  "height": 621,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-120-Edited.png"
+ },
+ "logos-minitv": {
+  "src": "assets/img/logos/minitv.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Follow-the-Amazon-Mini-Tv-Script-channel-on.jpeg"
+ },
+ "logos-sonyliv": {
+  "src": "assets/img/logos/sonyliv.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/download-10.jpeg"
+ },
+ "logos-aajtak": {
+  "src": "assets/img/logos/aajtak.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/AAJ-TAK-NEWS-Logo-PNG-Vector-CDR-Free-Download.jpeg"
+ },
+ "logos-sharktank": {
+  "src": "assets/img/logos/sharktank.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/SHARK-TANK-INDIA-2022-Badalte-Bharat-Ki-Nayi-Tasveer-Indian-Broadcast-Network.jpeg"
+ },
+ "logos-patanjali": {
+  "src": "assets/img/logos/patanjali.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Patanjali-Logo-PNG-Images-Transparent-HD-Photo-Clipart-Edited.png"
+ },
+ "logos-yolo": {
+  "src": "assets/img/logos/yolo.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/jblist-Edited.png"
+ },
+ "logos-itv": {
+  "src": "assets/img/logos/itv.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/itv-network-logo-Edited-scaled.png"
+ },
+ "logos-azadi": {
+  "src": "assets/img/logos/azadi.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/download-12-Edited.png"
+ },
+ "logos-mg": {
+  "src": "assets/img/logos/mg.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/download-6.jpg"
+ },
+ "logos-amarujala": {
+  "src": "assets/img/logos/amarujala.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/download-Edited.png"
+ },
+ "logos-newsnation": {
+  "src": "assets/img/logos/newsnation.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/download-2.png"
+ },
+ "logos-varanasi": {
+  "src": "assets/img/logos/varanasi.webp",
+  "width": 360,
+  "height": 200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/download-11-Edited-1.png"
+ },
+ "services-smm": {
+  "src": "assets/img/services/smm.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Boost-Your-Brand-with-Expert-Social-Media-Marketing-Services-%F0%9F%9A%80.jpeg"
+ },
+ "services-amplify": {
+  "src": "assets/img/services/amplify.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Credtech-Amplification-Report-1024x956.png"
+ },
+ "services-pr": {
+  "src": "assets/img/services/pr.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/The-Future-of-PR-and-Why-You-Need-a-Personal-Brand.jpeg"
+ },
+ "services-influencer": {
+  "src": "assets/img/services/influencer.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/What-is-Influencer-Marketing_-5-Creative-Ways-to-Use-Influencers-in-Your-Advertising.jpeg"
+ },
+ "services-outreach": {
+  "src": "assets/img/services/outreach.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/credtech-4-1024x744.png"
+ },
+ "services-orm": {
+  "src": "assets/img/services/orm.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Joshua-Delva-South-Orange-Improve-Your-Business-Reputation.jpeg"
+ },
+ "services-ads": {
+  "src": "assets/img/services/ads.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Instragram-Marketing-675x750.jpeg"
+ },
+ "services-analytics": {
+  "src": "assets/img/services/analytics.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/componentsofconversionrateoptimizationcroslide01-1668656497393157979319.jpg"
+ },
+ "services-web": {
+  "src": "assets/img/services/web.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/3d-rendering-website-hosting-concept-1280x739.jpg"
+ },
+ "services-seo": {
+  "src": "assets/img/services/seo.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/pexels-pixabay-267415-1024x680.jpg"
+ },
+ "services-content": {
+  "src": "assets/img/services/content.webp",
+  "width": 720,
+  "height": 440,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Expert-Content-Writing-Services-%E2%80%93-SEO-Optimized-Engaging-High-Quality-736x675.jpeg"
+ },
+ "detail-twitter-trend-shot": {
+  "src": "assets/img/detail/twitter-trend-shot.webp",
+  "width": 539,
+  "height": 970,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Screenshot-2023-03-10-at-5.21.43-PM.png"
+ },
+ "detail-svc-googleads": {
+  "src": "assets/img/detail/svc-googleads.webp",
+  "width": 1024,
+  "height": 680,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/pexels-photo-267401-267401-1024x680.jpg"
+ },
+ "detail-svc-pageopt": {
+  "src": "assets/img/detail/svc-pageopt.webp",
+  "width": 683,
+  "height": 1024,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/pexels-canvastudio-3194519-683x1024.jpg"
+ },
+ "detail-svc-traffic": {
+  "src": "assets/img/detail/svc-traffic.webp",
+  "width": 683,
+  "height": 1024,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/pexels-mikael-blomkvist-6476808-683x1024.jpg"
+ },
+ "detail-svc-smm-hero": {
+  "src": "assets/img/detail/svc-smm-hero.webp",
+  "width": 1024,
+  "height": 743,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/pexels-pixabay-267350-1-1024x743.jpg"
+ },
+ "detail-svc-network": {
+  "src": "assets/img/detail/svc-network.webp",
+  "width": 585,
+  "height": 1024,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Network-Marketing-Wikipedia-585x1024.jpeg"
+ },
+ "detail-svc-orm-hero": {
+  "src": "assets/img/detail/svc-orm-hero.webp",
+  "width": 1200,
+  "height": 557,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Building-a-Strong-Personal-Brand-1280x594.jpg"
+ },
+ "detail-svc-orm-2": {
+  "src": "assets/img/detail/svc-orm-2.webp",
+  "width": 1200,
+  "height": 800,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/programming-background-with-person-working-with-codes-computer-1280x853.jpg"
+ },
+ "detail-svc-web-hero": {
+  "src": "assets/img/detail/svc-web-hero.webp",
+  "width": 1200,
+  "height": 800,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/web-design-concept-with-drawings-1280x853.jpg"
+ },
+ "detail-svc-web-3": {
+  "src": "assets/img/detail/svc-web-3.webp",
+  "width": 1024,
+  "height": 683,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/pexels-photo-95916-95916-1024x683.jpg"
+ },
+ "detail-svc-aco-hero": {
+  "src": "assets/img/detail/svc-aco-hero.webp",
+  "width": 1080,
+  "height": 1080,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Untitled-design-2.png"
+ },
+ "detail-svc-aco-2": {
+  "src": "assets/img/detail/svc-aco-2.webp",
+  "width": 1200,
+  "height": 600,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Thoughtful-Inside-Page-Conversion-Rate-Optimization_1-jpg-1280x640.webp"
+ },
+ "detail-svc-content-hero": {
+  "src": "assets/img/detail/svc-content-hero.webp",
+  "width": 736,
+  "height": 720,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Expert-Content-Writing-Services-%E2%80%93-SEO-Optimized-Engaging-High-Quality-1-736x720.jpeg"
+ },
+ "detail-svc-content-2": {
+  "src": "assets/img/detail/svc-content-2.webp",
+  "width": 736,
+  "height": 720,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Professional-Content-Writing-Services-%E2%80%93-SEO-Optimized-Engaging-736x720.jpeg"
+ },
+ "detail-amplification-report": {
+  "src": "assets/img/detail/amplification-report.webp",
+  "width": 1024,
+  "height": 956,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Credtech-Amplification-Report-1024x956.png"
+ },
+ "detail-svc-insta": {
+  "src": "assets/img/detail/svc-insta.webp",
+  "width": 675,
+  "height": 750,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Instragram-Marketing-675x750.jpeg"
+ },
+ "detail-svc-influencer": {
+  "src": "assets/img/detail/svc-influencer.webp",
+  "width": 735,
+  "height": 413,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/What-is-Influencer-Marketing_-5-Creative-Ways-to-Use-Influencers-in-Your-Advertising.jpeg"
+ },
+ "detail-svc-orm": {
+  "src": "assets/img/detail/svc-orm.webp",
+  "width": 735,
+  "height": 490,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Joshua-Delva-South-Orange-Improve-Your-Business-Reputation.jpeg"
+ },
+ "detail-svc-smm": {
+  "src": "assets/img/detail/svc-smm.webp",
+  "width": 736,
+  "height": 736,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Boost-Your-Brand-with-Expert-Social-Media-Marketing-Services-%F0%9F%9A%80.jpeg"
+ },
+ "detail-svc-pr-hero": {
+  "src": "assets/img/detail/svc-pr-hero.webp",
+  "width": 735,
+  "height": 490,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/The-Future-of-PR-and-Why-You-Need-a-Personal-Brand.jpeg"
+ },
+ "detail-svc-pr-2": {
+  "src": "assets/img/detail/svc-pr-2.webp",
+  "width": 1024,
+  "height": 744,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/credtech-4-1024x744.png"
+ },
+ "detail-svc-seo": {
+  "src": "assets/img/detail/svc-seo.webp",
+  "width": 1024,
+  "height": 680,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/pexels-pixabay-267415-1024x680.jpg"
+ },
+ "detail-svc-web-2": {
+  "src": "assets/img/detail/svc-web-2.webp",
+  "width": 1200,
+  "height": 693,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/3d-rendering-website-hosting-concept-1280x739.jpg"
+ },
+ "detail-svc-aco-3": {
+  "src": "assets/img/detail/svc-aco-3.webp",
+  "width": 960,
+  "height": 720,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/componentsofconversionrateoptimizationcroslide01-1668656497393157979319.jpg"
+ },
+ "detail-svc-content-3": {
+  "src": "assets/img/detail/svc-content-3.webp",
+  "width": 736,
+  "height": 675,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Expert-Content-Writing-Services-%E2%80%93-SEO-Optimized-Engaging-High-Quality-736x675.jpeg"
+ },
+ "detail-blog-sm": {
+  "src": "assets/img/detail/blog-sm.webp",
+  "width": 1024,
+  "height": 576,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/pexels-photo-533446-533446-1024x576.jpg"
+ },
+ "detail-blog-content": {
+  "src": "assets/img/detail/blog-content.webp",
+  "width": 717,
+  "height": 1024,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/Professional-Content-Writing-Services-%E2%80%93-SEO-Optimized-Engaging-717x1024.jpeg"
+ },
+ "detail-blog-orm-1": {
+  "src": "assets/img/detail/blog-orm-1.webp",
+  "width": 1200,
+  "height": 1200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Gemini_Generated_Image_3k38hx3k38hx3k38-1280x1280.png"
+ },
+ "detail-blog-orm-2": {
+  "src": "assets/img/detail/blog-orm-2.webp",
+  "width": 1200,
+  "height": 1200,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Gemini_Generated_Image_4yau7i4yau7i4yau.png"
+ },
+ "detail-blog-pr": {
+  "src": "assets/img/detail/blog-pr.webp",
+  "width": 736,
+  "height": 736,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/How-To-Start-A-Successful-Business_-KnowWit.jpeg"
+ },
+ "detail-client-itv-wide": {
+  "src": "assets/img/detail/client-itv-wide.webp",
+  "width": 1024,
+  "height": 351,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/05/itv-network-logo-1024x351.jpg"
+ },
+ "cases-badanaam-1": {
+  "src": "assets/img/cases/badanaam-1.webp",
+  "width": 774,
+  "height": 504,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-145-Edited.png"
+ },
+ "cases-badanaam-2": {
+  "src": "assets/img/cases/badanaam-2.webp",
+  "width": 1095,
+  "height": 452,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-144-Edited.png"
+ },
+ "cases-badanaam-3": {
+  "src": "assets/img/cases/badanaam-3.webp",
+  "width": 1202,
+  "height": 592,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-142-Edited.png"
+ },
+ "cases-badanaam-4": {
+  "src": "assets/img/cases/badanaam-4.webp",
+  "width": 1204,
+  "height": 587,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-141-Edited.png"
+ },
+ "cases-badanaam-5": {
+  "src": "assets/img/cases/badanaam-5.webp",
+  "width": 1204,
+  "height": 680,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-135-Edited.png"
+ },
+ "cases-badanaam-6": {
+  "src": "assets/img/cases/badanaam-6.webp",
+  "width": 1207,
+  "height": 685,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-136-Edited.png"
+ },
+ "cases-badanaam-hero": {
+  "src": "assets/img/cases/badanaam-hero.webp",
+  "width": 1215,
+  "height": 693,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Screenshot-134-Edited.png"
+ },
+ "cases-harikatha-1": {
+  "src": "assets/img/cases/harikatha-1.webp",
+  "width": 960,
+  "height": 540,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/08/Harikatha-on-Hotstar-Report-5-1.png"
+ },
+ "cases-harikatha-2": {
+  "src": "assets/img/cases/harikatha-2.webp",
+  "width": 960,
+  "height": 540,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Harikatha-on-Hotstar-Report-8.png"
+ },
+ "cases-harikatha-3": {
+  "src": "assets/img/cases/harikatha-3.webp",
+  "width": 960,
+  "height": 540,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Harikatha-on-Hotstar-Report-7.png"
+ },
+ "cases-harikatha-4": {
+  "src": "assets/img/cases/harikatha-4.webp",
+  "width": 960,
+  "height": 540,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Harikatha-on-Hotstar-Report-6.png"
+ },
+ "cases-harikatha-hero": {
+  "src": "assets/img/cases/harikatha-hero.webp",
+  "width": 960,
+  "height": 540,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Harikatha-on-Hotstar-Report-9.png"
+ },
+ "cases-sharktank-1": {
+  "src": "assets/img/cases/sharktank-1.webp",
+  "width": 1303,
+  "height": 736,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-121-Edited.png"
+ },
+ "cases-sharktank-2": {
+  "src": "assets/img/cases/sharktank-2.webp",
+  "width": 1310,
+  "height": 742,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-133-Edited.png"
+ },
+ "cases-sharktank-3": {
+  "src": "assets/img/cases/sharktank-3.webp",
+  "width": 1204,
+  "height": 680,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-120-Edited.png"
+ },
+ "cases-sharktank-4": {
+  "src": "assets/img/cases/sharktank-4.webp",
+  "width": 1306,
+  "height": 842,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-132-Edited.png"
+ },
+ "cases-sharktank-hero": {
+  "src": "assets/img/cases/sharktank-hero.webp",
+  "width": 1317,
+  "height": 739,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-123-Edited.png"
+ },
+ "cases-tanaav-1": {
+  "src": "assets/img/cases/tanaav-1.webp",
+  "width": 1206,
+  "height": 685,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-107-Edited.png"
+ },
+ "cases-tanaav-10": {
+  "src": "assets/img/cases/tanaav-10.webp",
+  "width": 1201,
+  "height": 675,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-113-Edited.png"
+ },
+ "cases-tanaav-2": {
+  "src": "assets/img/cases/tanaav-2.webp",
+  "width": 1203,
+  "height": 680,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/33feb5a0-38e2-4bad-ba0c-7c1cc9896c51.png"
+ },
+ "cases-tanaav-3": {
+  "src": "assets/img/cases/tanaav-3.webp",
+  "width": 1202,
+  "height": 687,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/09025656-81a4-49b5-a33d-98ecc8bbe9e1.png"
+ },
+ "cases-tanaav-4": {
+  "src": "assets/img/cases/tanaav-4.webp",
+  "width": 1078,
+  "height": 466,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/4e514c35-dc20-471f-ae3d-995ad93029ad.png"
+ },
+ "cases-tanaav-5": {
+  "src": "assets/img/cases/tanaav-5.webp",
+  "width": 942,
+  "height": 514,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-117-Edited.png"
+ },
+ "cases-tanaav-6": {
+  "src": "assets/img/cases/tanaav-6.webp",
+  "width": 974,
+  "height": 538,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-119-Edited.png"
+ },
+ "cases-tanaav-7": {
+  "src": "assets/img/cases/tanaav-7.webp",
+  "width": 1048,
+  "height": 519,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-114-Edited.png"
+ },
+ "cases-tanaav-8": {
+  "src": "assets/img/cases/tanaav-8.webp",
+  "width": 863,
+  "height": 492,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-116-Edited.png"
+ },
+ "cases-tanaav-9": {
+  "src": "assets/img/cases/tanaav-9.webp",
+  "width": 1193,
+  "height": 693,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/Screenshot-112-Edited.png"
+ },
+ "cases-tanaav-hero": {
+  "src": "assets/img/cases/tanaav-hero.webp",
+  "width": 1208,
+  "height": 680,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2025/07/225f5348-a99d-41a9-b7ab-4a35c04bc223.png"
+ },
+ "brand-og-default": {
+  "src": "assets/img/brand/og-default.jpg",
+  "width": 1200,
+  "height": 630,
+  "sourceUrl": "https://credtechsolutions.com/wp-content/uploads/2023/03/Credtech-Analyse-amplify-Ur-network-scaled.jpg",
+  "note": "Composed social preview using the live hero image and logo"
+ }
+}

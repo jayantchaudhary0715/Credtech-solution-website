@@ -1,0 +1,101 @@
+{
+  "_about": "Client logos from the live homepage (in its order) and the client stories from /our-clients/. Only clients published on the live site are listed.",
+  "intro": {
+    "eyebrow": "Clients",
+    "title": "Channels, brands and institutions that trust us",
+    "sourceUrl": "https://credtechsolutions.com/our-clients/"
+  },
+  "why": {
+    "heading": "Why clients choose Credtech",
+    "bullets": [
+      "<b>Customised solutions.</b> Every business is unique, so we tailor our technology and services to your specific needs and goals.",
+      "<b>Modern technology.</b> We use the latest advances in fintech, software development and digital transformation to keep clients ahead of the curve.",
+      "<b>Reliable support.</b> From project start to deployment and beyond, our team provides expert guidance and ongoing support.",
+      "<b>Proven track record.</b> Our portfolio of successful projects reflects our commitment to quality, innovation and client satisfaction."
+    ],
+    "sourceUrl": "https://credtechsolutions.com/our-clients/"
+  },
+  "logos": [
+    { "id": "minitv", "name": "Amazon miniTV", "image": "logos-minitv" },
+    { "id": "sonyliv", "name": "Sony LIV", "image": "logos-sonyliv" },
+    { "id": "aajtak", "name": "Aaj Tak", "image": "logos-aajtak" },
+    { "id": "sharktank", "name": "Shark Tank India", "image": "logos-sharktank" },
+    { "id": "patanjali", "name": "Patanjali", "image": "logos-patanjali" },
+    { "id": "yolo", "name": "Yolohealth", "image": "logos-yolo" },
+    { "id": "itv", "name": "ITV Network", "image": "logos-itv" },
+    { "id": "azadi", "name": "Azadi Ka Amrit Mahotsav", "image": "logos-azadi" },
+    { "id": "mg", "name": "MG Motor (Morris Garages)", "image": "logos-mg" },
+    { "id": "amarujala", "name": "Amar Ujala", "image": "logos-amarujala" },
+    { "id": "newsnation", "name": "News Nation", "image": "logos-newsnation" },
+    { "id": "varanasi", "name": "Varanasi Nagar Nigam", "image": "logos-varanasi" }
+  ],
+  "logosSourceUrl": "https://credtechsolutions.com/",
+  "stories": [
+    {
+      "id": "itv",
+      "client": "ITV Network",
+      "logo": "logos-itv",
+      "objectives": [
+        "Expand the follower base across all social media platforms.",
+        "Improve interaction rates on posts through targeted content and influencer partnerships.",
+        "Achieve specific follower milestones for India News, Inkhabar and NewsX."
+      ],
+      "strategy": [
+        "<b>Content creation.</b> High-quality graphics and reels tailored to each platform's audience.",
+        "<b>Influencer amplification.</b> Influencer support and mass retweets to boost the reach of tweets and posts.",
+        "<b>Consistent posting.</b> A steady flow of content to keep the audience engaged and informed."
+      ],
+      "results": "ITV's social media grew significantly. India News National on Facebook gained more than 5 lakh followers, and Inkhabar and NewsX also grew substantially. Amplified tweets on X reached more than 3 crore users, and Instagram promotions and reels drove high engagement.",
+      "sourceUrl": "https://credtechsolutions.com/our-clients/"
+    },
+    {
+      "id": "yolo",
+      "client": "Yolohealth",
+      "logo": "logos-yolo",
+      "objectives": [
+        "Increase Yolo's visibility across social media platforms.",
+        "Improve user interaction and engagement through targeted content.",
+        "Highlight Yolo's initiatives and achievements, particularly in rural healthcare."
+      ],
+      "strategy": [
+        "<b>Content creation.</b> Engaging posts for Facebook, Instagram and X to capture audience interest.",
+        "<b>Influencer collaboration.</b> Vinayak Ji's social media presence to amplify reach.",
+        "<b>PR integration.</b> Press coverage, such as the Times of India article, to strengthen credibility and awareness."
+      ],
+      "sourceUrl": "https://credtechsolutions.com/our-clients/"
+    },
+    {
+      "id": "patanjali",
+      "client": "Patanjali",
+      "campaign": "Param Pujya Swamiji social media campaign",
+      "logo": "logos-patanjali",
+      "objectives": [
+        "Broaden audience reach by sharing engaging content.",
+        "Use a mix of banners, videos and stories to maintain interest and engagement."
+      ],
+      "strategy": [
+        "A balanced mix of banners and videos, with compelling stories to keep the audience engaged.",
+        "Tracking video views and story reach to measure the content strategy's effectiveness."
+      ],
+      "results": "The Param Pujya Swamiji campaign steadily increased engagement and reach through regular posting of diverse content like banners and videos. Effective content strategies led to high video views and story reach, and monthly data showed consistent performance.",
+      "sourceUrl": "https://credtechsolutions.com/our-clients/"
+    },
+    {
+      "id": "sonyliv",
+      "client": "Sony LIV",
+      "logo": "logos-sonyliv",
+      "objectives": [
+        "Boost visibility and engagement through third-party influencers.",
+        "Use both verified and unverified influencers to extend campaign reach.",
+        "Create excitement and memorable experiences with humorous, engaging content."
+      ],
+      "strategy": [
+        "Diverse content including banners, videos, memes and stories tailored for each platform.",
+        "A regular posting schedule to keep the audience engaged.",
+        "Promotion of specific hashtags to drive conversations and trends."
+      ],
+      "results": "The combined campaigns achieved significant reach and engagement. Facebook saw high audience reach and video views, Instagram had strong engagement on big and mid-size pages, and X influencer tweets drove trending hashtags. Highlights include Rocket Boys S2, Shark Tank India S2, The Jengaburu Curse, Tanaav, Maharani S2 and Garmi.",
+      "sourceUrl": "https://credtechsolutions.com/our-clients/"
+    }
+  ]
+}

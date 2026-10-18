@@ -1,0 +1,637 @@
+{
+  "_about": "Services shown on the homepage ring, the Services page and each service page. `home: true` puts a service on the homepage (in `homeOrder`). Services without `page: true` link to the closest detail page through `linkTo`. Copy was edited for grammar from the sourceUrl page; meaning is unchanged.",
+  "intro": {
+    "eyebrow": "Our Services",
+    "title": "Digital marketing and PR for businesses in Noida and across India",
+    "paras": [
+      "We understand the digital marketing and PR challenges businesses face in Noida. As one of the fastest-growing business hubs in Delhi NCR, Noida is a competitive market, and we help your brand stand out. Whether you need to build your online presence, manage your reputation or drive more traffic, our services are tailored to your goals.",
+      "In a competitive business landscape, a solid digital marketing strategy is essential. We offer customised digital marketing services that help your business grow and thrive."
+    ],
+    "sourceUrl": "https://credtechsolutions.com/services/"
+  },
+  "more": {
+    "title": "More ways we help",
+    "sourceUrl": "https://credtechsolutions.com/services/",
+    "items": [
+      { "title": "Social Media Optimisation", "text": "We research your market, produce engaging content and optimise your social media presence, then keep refining the strategy until it delivers the highest possible ROI for your brand." },
+      { "title": "Content Creation", "text": "Our content team creates shareable content that matches your brand's tone and connects with your audience. We plan a content strategy around your business objectives and tailor it to each platform to maximise engagement and reach." },
+      { "title": "Campaign Management", "text": "We run your social media campaigns from start to finish: a custom strategy for your goals, ongoing monitoring and adjustment, and regular data-driven feedback so everything runs smoothly." },
+      { "title": "Bluetick Verification", "text": "We guide you through the verification process for your social media platforms so your brand is represented accurately and professionally, with expert advice that helps you establish credibility and build trust." },
+      { "title": "Twitter Trending", "text": "We launch and monitor X (Twitter) trends, find opportunities for your brand to join relevant conversations, and execute a strategy that drives exposure, engagement and growth." },
+      { "title": "Reviews & Ratings", "text": "We encourage reviews and ratings for your brand across platforms, promote positive sentiment and address negative feedback, with regular reports and recommendations to protect your online reputation." },
+      { "title": "Website Development", "text": "Design, build and maintenance of high-quality, customised websites, including web design, content creation and programming, to meet each client's specific needs." }
+    ]
+  },
+  "items": [
+    {
+      "id": "smm",
+      "slug": "social-media-marketing",
+      "page": true,
+      "home": true,
+      "homeOrder": 1,
+      "title": "Social Media Marketing",
+      "short": "Content calendars, paid ads and community building on Facebook, Instagram, LinkedIn and X.",
+      "ringSub": "Content, community and growth",
+      "thumb": "services-smm",
+      "seo": {
+        "title": "Social Media Marketing Agency in Noida",
+        "description": "Content planning, Facebook and Instagram ads, brand promotion and community building from Credtech Solutions, a social media marketing agency in Delhi NCR."
+      },
+      "heroImage": "detail-svc-smm-hero",
+      "heroAlt": "Social media app icons on a smartphone screen",
+      "intro": [
+        "Social media has transformed how brands interact with customers. Platforms like Facebook, Instagram, LinkedIn and X (Twitter) give you direct access to millions of people.",
+        "But social media marketing is not just about posting regularly. It is about engaging your audience with meaningful content that resonates and sparks conversations."
+      ],
+      "introTags": ["Content Calendar", "Paid Advertising", "Engagement and Community Building"],
+      "sections": [
+        {
+          "id": "content-planning",
+          "heading": "Content Planning",
+          "bullets": [
+            "<b>Consistency.</b> Regular posting builds trust and keeps your audience engaged.",
+            "<b>Relevance.</b> Planning helps you tailor content to audience interests and trending topics.",
+            "<b>Efficiency.</b> Organising content creation and scheduling in advance saves time.",
+            "<b>Goal alignment.</b> Every post supports your business objectives, whether that is brand awareness, lead generation or customer support.",
+            "<b>Performance tracking.</b> It becomes easier to analyse what works and optimise your strategy."
+          ],
+          "tags": ["Define Your Goals", "Know Your Audience", "Schedule & Publish"],
+          "image": "detail-svc-smm",
+          "imageAlt": "Social media marketing service graphic with platform icons"
+        },
+        {
+          "id": "meta-ads",
+          "heading": "Facebook & Instagram Ads",
+          "paras": ["In digital marketing, Facebook and Meta Ads stand out as powerful tools to reach your ideal customers quickly and effectively. With billions of users across Facebook, Instagram, Messenger and the Audience Network, Meta Ads offer unmatched reach and targeting precision."],
+          "bullets": [
+            "<b>Advanced targeting.</b> Reach people based on demographics, interests, behaviours and custom audiences such as your website visitors or email list.",
+            "<b>Multiple ad formats.</b> Use images, videos, carousels, stories and more to tell your brand's story creatively.",
+            "<b>Budget flexibility.</b> Whether you are a small business or a large brand, you control how much you spend daily or per campaign.",
+            "<b>Real-time performance tracking.</b> Meta's Ads Manager gives detailed insights so you can optimise campaigns on the fly."
+          ],
+          "tags": ["Audience Targeting", "Budget Flexibility", "Ad Formats"],
+          "image": "detail-svc-insta",
+          "imageAlt": "Instagram Ads illustration with Facebook and Instagram logos"
+        },
+        {
+          "id": "brand-promotion",
+          "heading": "Brand Promotion",
+          "paras": ["Brand promotion is about making your business known and memorable to your target audience. It involves strategic activities designed to increase visibility, build trust and create a strong emotional connection with customers."],
+          "bullets": [
+            "<b>Advertising.</b> Channels like TV, digital ads, print and social media spread your brand message widely.",
+            "<b>Content marketing.</b> Valuable content that educates and entertains positions your brand as an industry leader.",
+            "<b>Social media engagement.</b> Interacting with your audience on Instagram, Facebook and LinkedIn builds community.",
+            "<b>Public relations.</b> Positive media coverage and active management of your brand's reputation.",
+            "<b>Events and sponsorships.</b> Hosting or sponsoring events creates memorable experiences and direct connections with your audience.",
+            "<b>Influencer collaborations.</b> Partnering with trusted voices expands your reach authentically."
+          ],
+          "tags": ["Influencer Marketing", "Media Coverage", "Sponsorships"],
+          "image": "detail-svc-network",
+          "imageAlt": "Illustration of a connected network of people"
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/social-meadia-marketing/",
+      "sourceModified": "2025-07-16T16:42:29"
+    },
+    {
+      "id": "amplify",
+      "slug": "social-media-amplification",
+      "page": true,
+      "home": true,
+      "homeOrder": 2,
+      "title": "Social Amplification",
+      "short": "Official account management, X trends and influencer networks that extend your campaign's reach across India.",
+      "ringSub": "Pages and networks that trend",
+      "thumb": "services-amplify",
+      "seo": {
+        "title": "Social Media Amplification and Twitter Trending",
+        "description": "Social media management, X (Twitter) trending, influencer amplification and reputation management for brands, films and public leaders from Credtech Solutions."
+      },
+      "heroImage": "detail-amplification-report",
+      "heroAlt": "Illustration of a megaphone amplifying content from a laptop",
+      "intro": [
+        "We amplify your content's reach and impact through strategic social media sharing and audience engagement."
+      ],
+      "introSourceUrl": "https://credtechsolutions.com/",
+      "sections": [
+        {
+          "id": "social-media-management",
+          "heading": "Social Media Management",
+          "paras": [
+            "We manage all of your official social accounts on every platform. We create tweets, banners and video content for your official handles, grow page audiences with ads and promote your posts. Key highlights of your work are also featured on our website."
+          ],
+          "tags": ["Content Creation", "Monthly Calendar Design", "Growing Audience"]
+        },
+        {
+          "id": "twitter-trending",
+          "heading": "Twitter Trending",
+          "paras": [
+            "We are experts in managing X (Twitter) trends, using targeted messaging and real-time tracking to extend the reach and influence of your campaign.",
+            "Our strategy uses influencers to drive the movement. We identify official and unofficial influencers with large followings, and we make sure every influencer we work with is real and authentic. The result is an organic trend with the highest possible reach across India.",
+            "We can help you reach voters and fans on one of the most engaging channels available."
+          ],
+          "bullets": ["Trending in the Top 10 in India", "Verified and non-verified influencers in the trend", "Detailed reach report"],
+          "image": "detail-twitter-trend-shot",
+          "imageAlt": "Screenshot of the India trends list on X (Twitter)",
+          "imageTall": true
+        },
+        {
+          "id": "influencers",
+          "heading": "Social Media Influencers",
+          "paras": [
+            "In the fast-paced digital age, attention is currency and social media influencers are today's bankers. From beauty products and tech gadgets to travel destinations and fintech startups, influencers are the crucial link between brands and their audience.",
+            "Credtech is a digital marketing agency in Delhi NCR with expertise in handling online crises. Our social media reputation management team protects your brand by dealing with negative online interactions and limiting their impact, so your standing and public image stay secure."
+          ],
+          "bullets": ["Third-party political Facebook pages", "Amplification through X (Twitter) influencers", "Instagram influencers", "Crisis management on social media"],
+          "image": "detail-svc-influencer",
+          "imageAlt": "Influencer marketing illustration with social media icons"
+        },
+        {
+          "id": "reputation",
+          "heading": "Reputation Management",
+          "paras": ["Credtech is an online reputation management (ORM) company. Our team of experts tracks online conversations, finds negative content and responds effectively to restore your brand's reputation."],
+          "bullets": ["Push positive content", "Counter negative content", "Manage social media reactions"],
+          "image": "detail-svc-orm",
+          "imageAlt": "Tablet showing a reputation management word cloud"
+        },
+        {
+          "id": "social-media-marketing",
+          "heading": "Social Media Marketing",
+          "tags": ["Influencer Marketing", "Meme Marketing", "Social Media Advertisement"],
+          "link": { "label": "Explore Social Media Marketing", "page": "service:social-media-marketing" },
+          "reviewNote": "The live page repeats the ORM paragraph under this heading, so only the listed capabilities were migrated."
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/social-media-amplification/",
+      "sourceModified": "2025-07-16T16:30:38"
+    },
+    {
+      "id": "pr",
+      "slug": "public-relations",
+      "page": true,
+      "home": true,
+      "homeOrder": 3,
+      "title": "Public Relations",
+      "short": "Strategic communication, media relations and crisis management that build credibility.",
+      "ringSub": "Media outreach and advocacy",
+      "thumb": "services-pr",
+      "seo": {
+        "title": "PR Agency in Delhi NCR",
+        "description": "Strategic communication, media relations, crisis management and digital PR from Credtech Solutions, a PR agency in Noida, Delhi NCR."
+      },
+      "heroImage": "detail-svc-pr-hero",
+      "heroAlt": "Hand-drawn public relations concept sketch",
+      "intro": [
+        "In today's fast-paced digital world, building and maintaining a strong brand presence is more crucial than ever. Effective public relations is the cornerstone of business success.",
+        "Our PR agency services are designed to amplify your brand voice, foster meaningful connections and drive tangible business growth."
+      ],
+      "sections": [
+        {
+          "id": "why",
+          "heading": "Why choose Credtech for your PR needs?",
+          "bullets": [
+            "<b>Strategic communication.</b> Tailored PR strategies that align with your business goals and resonate with your target audience.",
+            "<b>Media relations.</b> Strong relationships with media outlets give your brand stories the visibility they deserve across print, digital and broadcast channels.",
+            "<b>Crisis management.</b> A proactive approach that protects and enhances your brand reputation, even in challenging situations.",
+            "<b>Digital PR and social media.</b> Traditional PR combined with modern digital marketing techniques to maximise your online impact and engagement.",
+            "<b>Content creation.</b> Press releases, thought leadership articles and multimedia content with compelling narratives that build trust and credibility."
+          ],
+          "image": "detail-blog-pr",
+          "imageAlt": "Illustration of a laptop with business growth charts"
+        },
+        {
+          "id": "services",
+          "heading": "Our PR services include",
+          "bullets": [
+            "Brand reputation management",
+            "Media outreach and press release distribution",
+            "Event planning and management",
+            "Influencer and stakeholder engagement",
+            "Crisis communication and issue management",
+            "Social media strategy and content marketing",
+            "Market research and competitive analysis"
+          ],
+          "image": "detail-svc-pr-2",
+          "imageAlt": "Team reviewing charts during a presentation"
+        },
+        {
+          "id": "industries",
+          "heading": "Industry expertise",
+          "paras": [
+            "Whether you are a startup aiming to make your mark or an established enterprise looking to revitalise your brand, we bring industry-specific PR expertise to sectors including technology, finance, healthcare, retail and more.",
+            "Reach out today to find out how we can tailor our PR services to your needs and objectives."
+          ]
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/pr-agency/",
+      "sourceModified": "2025-07-16T16:14:54"
+    },
+    {
+      "id": "influencer",
+      "slug": "influencer-marketing",
+      "page": false,
+      "linkTo": "service:social-media-amplification#influencers",
+      "home": true,
+      "homeOrder": 4,
+      "title": "Influencer Marketing",
+      "short": "Tailored influencer strategies that boost brand visibility and engagement.",
+      "ringSub": "Creators matched to audiences",
+      "thumb": "services-influencer",
+      "detail": "We identify partners whose values and purpose match your brand's, measure the results and influence of each campaign, and adjust our plans as needed to achieve the best outcome.",
+      "sourceUrl": "https://credtechsolutions.com/",
+      "reviewNote": "The Influencer Marketing paragraph on /services/ is garbled text. Only its readable sentences were migrated, into `detail`."
+    },
+    {
+      "id": "outreach",
+      "slug": "influencer-pr-outreach",
+      "page": false,
+      "linkTo": "service:public-relations",
+      "home": true,
+      "homeOrder": 5,
+      "title": "Influencer & PR Outreach",
+      "short": "Influential voices and media outlets that earn third-party endorsements for your brand.",
+      "ringSub": "One message, many voices",
+      "thumb": "services-outreach",
+      "detail": "We connect you with influential voices and media outlets, earning valuable third-party endorsements that build trust and expand your reach.",
+      "sourceUrl": "https://credtechsolutions.com/"
+    },
+    {
+      "id": "orm",
+      "slug": "online-reputation-management",
+      "page": true,
+      "home": true,
+      "homeOrder": 6,
+      "title": "Online Reputation Management",
+      "short": "Monitor, protect and improve how your brand appears across every platform.",
+      "ringSub": "Monitor, protect and repair",
+      "thumb": "services-orm",
+      "seo": {
+        "title": "Online Reputation Management (ORM) Services",
+        "description": "Reputation audits, proactive reputation building, negative content suppression, crisis response and continuous monitoring from Credtech Solutions in Noida."
+      },
+      "heroImage": "detail-svc-orm-hero",
+      "heroAlt": "Graphic titled Building a Strong Personal Brand Through Online Reputation Management",
+      "intro": [
+        "Your brand's reputation is built online as much as offline, and it is always evolving. Customer reviews, social media mentions, news articles and online forums all shape public perception. A strong online reputation is not a luxury. It is a necessity for sustained growth and success.",
+        "Our Online Reputation Management (ORM) services proactively build, protect and restore your brand's image, so your digital footprint reflects the excellence you represent."
+      ],
+      "sections": [
+        {
+          "id": "why",
+          "heading": "Why ORM is crucial for your business",
+          "paras": ["A positive online reputation is your most valuable asset. It affects everything from sales and customer trust to hiring and investor relations. A single negative review or piece of misinformation can spread quickly and cause significant damage."],
+          "bullets": [
+            "<b>Builds trust and credibility.</b> Consumers rely on online reviews and information before buying. A strong, positive presence instils confidence.",
+            "<b>Drives sales and revenue.</b> When potential customers see favourable feedback, they are more likely to choose your products or services.",
+            "<b>Improves visibility and SEO.</b> Search engines prioritise reputable sources. Positive content and consistent messaging improve your rankings.",
+            "<b>Attracts and retains talent.</b> Candidates research employers online, and a positive reputation helps you hire and keep the best people.",
+            "<b>Mitigates negative impact.</b> ORM lets you detect, respond to and contain negative content before it escalates into a crisis.",
+            "<b>Provides valuable insights.</b> Monitoring conversations reveals customer sentiment, product perceptions and market trends."
+          ]
+        },
+        {
+          "id": "audit",
+          "heading": "Reputation audit and analysis",
+          "bullets": [
+            "<b>In-depth online scan</b> of your presence across search engines, social media, review sites, news outlets and forums.",
+            "<b>Sentiment analysis</b> that sorts mentions into positive, negative and neutral to show overall brand perception.",
+            "<b>Competitor benchmarking</b> of your competitors' online reputations to find opportunities and threats."
+          ],
+          "image": "detail-svc-orm-2",
+          "imageAlt": "Person working with code on a computer screen"
+        },
+        {
+          "id": "building",
+          "heading": "Proactive reputation building",
+          "bullets": [
+            "<b>Content creation and amplification.</b> High-quality positive content such as blogs, articles, press releases and videos that highlights your strengths.",
+            "<b>SEO for positive content</b> so it ranks higher and pushes down less favourable mentions.",
+            "<b>Online review management.</b> Encouraging satisfied customers to leave reviews and responding to all feedback.",
+            "<b>Social media engagement</b> that builds an active community and showcases your brand's personality."
+          ]
+        },
+        {
+          "id": "suppression",
+          "heading": "Negative content suppression and removal",
+          "bullets": [
+            "<b>Strategic content dilution.</b> A significant volume of positive, optimised content that outranks negative search results.",
+            "<b>Legal and ethical removal, where applicable.</b> Pursuing removal of defamatory, false or misleading content through legitimate channels.",
+            "<b>Complaint board resolution.</b> Addressing and resolving issues on consumer complaint sites such as Ripoff Report."
+          ]
+        },
+        {
+          "id": "crisis",
+          "heading": "Crisis management and response",
+          "bullets": [
+            "<b>Rapid response strategy</b> to address sudden negative publicity or online crises.",
+            "<b>Damage control</b> through strategic communication and timely action.",
+            "<b>Public relations support</b> to manage media narratives during a crisis."
+          ]
+        },
+        {
+          "id": "monitoring",
+          "heading": "Continuous monitoring and reporting",
+          "bullets": [
+            "<b>Real-time monitoring</b> of mentions of your brand, keywords and key people across the web.",
+            "<b>Alert systems</b> for sudden shifts in sentiment or critical new content.",
+            "<b>Detailed performance reports</b> with regular, transparent updates and actionable insights."
+          ]
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/online-reputation-management/",
+      "sourceModified": "2025-07-21T14:42:19"
+    },
+    {
+      "id": "ads",
+      "slug": "digital-social-media-ads",
+      "page": false,
+      "linkTo": "service:social-media-marketing#meta-ads",
+      "home": true,
+      "homeOrder": 7,
+      "title": "Digital & Social Media Ads",
+      "short": "Targeted ads that promote your products and services across digital and social platforms.",
+      "ringSub": "Paid reach that performs",
+      "thumb": "services-ads",
+      "detail": "We produce focused digital ad campaigns that find your ideal audience and help them convert. We track ad performance closely and optimise continuously to get the best return for your brand.",
+      "sourceUrl": "https://credtechsolutions.com/services/"
+    },
+    {
+      "id": "analytics",
+      "slug": "analytics-conversion-optimization",
+      "page": true,
+      "home": true,
+      "homeOrder": 8,
+      "title": "Analytics & Conversion Optimization",
+      "short": "Data analysis and testing that turn website visitors into leads, customers and advocates.",
+      "ringSub": "Attention into leads",
+      "thumb": "services-analytics",
+      "seo": {
+        "title": "Analytics & Conversion Optimization",
+        "description": "Conversion audits, user behaviour analytics, funnel optimisation, A/B testing and personalisation from Credtech Solutions to turn website traffic into results."
+      },
+      "heroImage": "detail-svc-aco-2",
+      "heroAlt": "Conversion rate optimisation cycle diagram",
+      "intro": [
+        "We do not just drive traffic. We convert it into tangible results. Our Analytics & Conversion Optimization (ACO) services maximise the return on your marketing investment by turning website visitors into leads, customers and loyal advocates.",
+        "Attracting visitors is only half the battle. The real win lies in understanding their behaviour, optimising their journey and guiding them towards the actions you want. We go beyond vanity metrics with deep data analysis and strategic testing."
+      ],
+      "sections": [
+        {
+          "id": "why",
+          "heading": "Why it matters for your business",
+          "bullets": [
+            "<b>Maximise ROI from existing traffic.</b> Get more value from the visitors you already attract instead of spending more on ads.",
+            "<b>Understand your customers.</b> See how users interact with your site, what motivates them and where they get stuck.",
+            "<b>Boost revenue and profitability.</b> Higher conversion rates mean more sales and leads.",
+            "<b>Enhance user experience.</b> A streamlined, intuitive site converts better and builds trust and loyalty.",
+            "<b>Lower customer acquisition cost.</b> An optimised site wins new customers more efficiently.",
+            "<b>Data-driven decisions.</b> Clear, actionable insights instead of guesswork."
+          ],
+          "image": "detail-svc-aco-hero",
+          "imageAlt": "Credtech graphic on best practices for implementing web analytics"
+        },
+        {
+          "id": "audit",
+          "heading": "Conversion audit and analysis",
+          "paras": ["We start with a thorough audit of your website performance, using your analytics data (Google Analytics and others) to identify:"],
+          "bullets": ["High drop-off points in your site and funnels", "Underperforming pages with low engagement or high bounce rates", "User flow obstacles that prevent conversions", "Competitor positioning and opportunities"]
+        },
+        {
+          "id": "behaviour",
+          "heading": "User behaviour analytics",
+          "bullets": [
+            "<b>Heatmaps</b> show where users click, move and focus.",
+            "<b>Session recordings</b> of anonymous visits reveal friction points.",
+            "<b>Surveys and user feedback</b> capture pain points and preferences directly."
+          ]
+        },
+        {
+          "id": "funnel",
+          "heading": "Conversion funnel optimisation",
+          "paras": ["We map and refine your full funnel, from first awareness to final conversion, including:"],
+          "bullets": ["High-impact landing pages with clear calls to action", "Intuitive website navigation", "Streamlined checkout to reduce cart abandonment", "User-friendly forms that encourage completion"],
+          "image": "detail-svc-aco-3",
+          "imageAlt": "Components of conversion rate optimisation diagram"
+        },
+        {
+          "id": "testing",
+          "heading": "Testing, personalisation and reporting",
+          "paras": [
+            "<b>A/B and multivariate testing.</b> We compare versions of pages and elements such as headlines, calls to action, images and layouts to find what drives more conversions.",
+            "<b>Personalisation.</b> Tailoring the experience to each user's behaviour, demographics or preferences with dynamic content and personalised journeys.",
+            "<b>Continuous monitoring.</b> We track conversion rate, bounce rate, time on site and lead generation, with transparent reporting that surfaces new opportunities."
+          ]
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/analytics-conversion-optimization/",
+      "sourceModified": "2025-07-21T13:50:16"
+    },
+    {
+      "id": "web",
+      "slug": "website-design-development",
+      "page": true,
+      "home": true,
+      "homeOrder": 9,
+      "title": "Website Design & Development",
+      "short": "Strategic, responsive websites built to captivate visitors and convert leads.",
+      "ringSub": "Premium sites that convert",
+      "thumb": "services-web",
+      "seo": {
+        "title": "Website Design & Development",
+        "description": "Strategic planning, bespoke design, CMS and e-commerce development, SEO integration and maintenance from Credtech Solutions in Noida."
+      },
+      "heroImage": "detail-svc-web-hero",
+      "heroAlt": "Web design concept sketches",
+      "intro": [
+        "Your website is more than an online brochure. It is your digital storefront, your round-the-clock sales representative and a powerful tool for building brand authority. As a marketing and PR agency, we bring our understanding of market trends, consumer behaviour and brand storytelling to every website we design and develop.",
+        "We craft digital experiences that captivate visitors, convert leads and drive measurable growth. Our approach is strategic, collaborative and focused on a website that looks great and performs exceptionally."
+      ],
+      "sections": [
+        {
+          "id": "why",
+          "heading": "Why your business needs a professional website",
+          "bullets": [
+            "<b>Credibility and professionalism.</b> A polished website builds trust instantly.",
+            "<b>Wider reach.</b> Access a global audience beyond geographical limits.",
+            "<b>Always available.</b> Your business is open around the clock.",
+            "<b>Lead generation and sales.</b> Turn visitors into leads and direct sales.",
+            "<b>Brand building.</b> Strengthen your identity and recognition.",
+            "<b>Customer engagement.</b> Communicate, support and build a loyal community.",
+            "<b>Competitive advantage.</b> Stand out with a superior online presence.",
+            "<b>Data and analytics.</b> Learn from customer behaviour to inform decisions."
+          ]
+        },
+        {
+          "id": "planning",
+          "heading": "Strategic website planning and consultation",
+          "paras": ["We begin by understanding your business goals, target audience, competitive landscape and unique selling points, so your website has a clear purpose and direction."],
+          "bullets": ["<b>Discovery sessions</b> to define objectives and requirements", "<b>Competitor analysis</b> to find best practices and ways to differentiate", "<b>Audience profiling</b> for a relevant, engaging experience", "<b>Sitemap and user flows</b> for intuitive navigation"],
+          "image": "detail-svc-web-2",
+          "imageAlt": "Hand selecting an option on a floating website interface"
+        },
+        {
+          "id": "design",
+          "heading": "Bespoke website design",
+          "paras": ["Our design philosophy blends aesthetics with function to create attractive, user-friendly interfaces that reflect your brand."],
+          "bullets": ["Custom UI and UX design", "Responsive design for desktops, tablets and phones", "Wireframing and prototyping", "Brand integration of your guidelines, colours and typography", "Custom graphics and iconography"]
+        },
+        {
+          "id": "development",
+          "heading": "Robust website development",
+          "paras": ["We use current technologies and coding best practices to build secure, scalable, high-performing websites."],
+          "bullets": [
+            "<b>CMS development.</b> WordPress sites that are flexible, user-friendly and SEO-friendly, plus custom CMS solutions for unique requirements.",
+            "<b>E-commerce.</b> Shopify, WooCommerce and Magento stores, secure payment gateway integration, and product and inventory management.",
+            "<b>Custom web applications</b> built for your specific business needs.",
+            "<b>Front end.</b> HTML5, CSS3, JavaScript, React, Angular and Vue.js.",
+            "<b>Back end.</b> PHP, Python, Node.js and Ruby on Rails.",
+            "<b>Database design and integration</b> for efficient, secure data management."
+          ],
+          "image": "detail-svc-web-3",
+          "imageAlt": "Analytics report, keyboard and smartphone on a desk"
+        },
+        {
+          "id": "seo",
+          "heading": "SEO integration",
+          "bullets": ["Keyword research and optimisation", "On-page SEO for content, meta tags and internal links", "Technical SEO for speed, mobile-friendliness and crawlability", "Google Analytics and Search Console setup"]
+        },
+        {
+          "id": "maintenance",
+          "heading": "Website maintenance and support",
+          "bullets": ["Regular updates and backups", "Security monitoring and patches", "Performance optimisation for fast loading", "Content updates and management support"]
+        },
+        {
+          "id": "process",
+          "heading": "Our process",
+          "ordered": true,
+          "bullets": [
+            "<b>Discovery and strategy.</b> Understanding your vision, goals and audience.",
+            "<b>Design and prototyping.</b> Wireframes, mockups and interactive prototypes.",
+            "<b>Development.</b> Clean, efficient code that brings the design to life.",
+            "<b>Content integration.</b> Text, images and video.",
+            "<b>Testing and quality assurance</b> across devices and browsers.",
+            "<b>Launch and deployment.</b>",
+            "<b>Post-launch support and optimisation.</b>"
+          ]
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/website-design-developement/",
+      "sourceModified": "2025-07-19T17:02:59"
+    },
+    {
+      "id": "seo",
+      "slug": "search-engine-marketing",
+      "page": true,
+      "home": false,
+      "title": "Search Engine Marketing",
+      "short": "SEO, website audits, Google Ads and traffic analysis that help the right people find you.",
+      "ringSub": "Be found first",
+      "thumb": "services-seo",
+      "seo": {
+        "title": "SEO and Search Engine Marketing",
+        "description": "Search engine optimisation, website audits, Google Ads, on-page optimisation and traffic analysis from Credtech Solutions, Noida."
+      },
+      "heroImage": "detail-svc-seo",
+      "heroAlt": "Letter tiles spelling SEO AUDIT",
+      "intro": [
+        "Imagine creating the best website and content, but no one finds it. That is where SEO comes in.",
+        "SEO is the art and science of optimising your website and content to rank higher on search engines like Google. Higher rankings mean more organic traffic and more opportunities to turn visitors into customers."
+      ],
+      "introTags": ["Website Optimisation", "On-Page", "Off-Page"],
+      "sections": [
+        {
+          "id": "website-audit",
+          "heading": "Website Audit",
+          "tags": ["Deep Analysis", "Website Performance", "Structure & Content"],
+          "reviewNote": "The live page repeats the SEO paragraph under this heading, so only the listed capabilities were migrated."
+        },
+        {
+          "id": "google-ads",
+          "heading": "Google Ads",
+          "paras": ["If you want immediate visibility and targeted traffic, Google Ads is one of the most effective tools in your marketing arsenal. Unlike organic methods such as SEO, Google Ads places your business at the top of search results or on relevant websites almost instantly, in a paid format."],
+          "tags": ["Ad Revenue", "Ad Spend", "Conversion"],
+          "image": "detail-svc-googleads",
+          "imageAlt": "Scrabble tiles spelling AdWords on a wooden surface"
+        },
+        {
+          "id": "page-optimization",
+          "heading": "Page Optimisation",
+          "paras": [
+            "When it comes to improving your website's visibility on search engines like Google, on-page SEO is a crucial first step. It means optimising individual pages so they rank higher in search results and attract more relevant traffic.",
+            "Meta descriptions do not directly affect rankings, but they do influence click-through rate. Write a concise summary of about 150 to 160 characters that highlights the page's value and includes your target keyword."
+          ],
+          "tags": ["Title Tags", "Keyword Planning", "Meta Description"],
+          "image": "detail-svc-pageopt",
+          "imageAlt": "Two people working on laptops at a shared desk",
+          "imageTall": true
+        },
+        {
+          "id": "traffic-analysis",
+          "heading": "Traffic Analysis",
+          "paras": ["Running a successful online business means knowing who your visitors are, how they find you and what they do once they arrive. Traffic analysis is the process of collecting, measuring and interpreting data about your visitors so you can make informed decisions that boost engagement, conversions and growth."],
+          "tags": ["Plan Schedule", "Online Tracking", "Interpreting Data"],
+          "image": "detail-svc-traffic",
+          "imageAlt": "Desk with a monitor and planning notes",
+          "imageTall": true
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/seosearch-engine-marketing/",
+      "sourceModified": "2025-07-16T16:05:10"
+    },
+    {
+      "id": "content",
+      "slug": "content-marketing",
+      "page": true,
+      "home": false,
+      "title": "Content Marketing",
+      "short": "Blogs, copy and campaigns that inform, inspire and influence.",
+      "ringSub": "Words that work",
+      "thumb": "services-content",
+      "seo": {
+        "title": "Content Marketing and Copywriting",
+        "description": "Content strategy, SEO-friendly copywriting and content for every platform from Credtech Solutions, a content marketing agency in Noida."
+      },
+      "heroImage": "detail-svc-content-hero",
+      "heroAlt": "Laptop showing High-Quality Content Writing on screen",
+      "intro": [
+        "Content is more than words. It is your brand's voice, value and vision in action. From powerful blogs to persuasive campaigns, we create and market content that informs, inspires and influences."
+      ],
+      "sections": [
+        {
+          "id": "what",
+          "heading": "Power your brand with words that work",
+          "bullets": [
+            "<b>Strategic content planning.</b> We analyse your industry, audience and goals to build a content strategy aligned with your business objectives.",
+            "<b>High-impact copywriting.</b> Website content, landing pages, product descriptions and email campaigns with persuasive, SEO-friendly copy that converts."
+          ],
+          "tags": ["Blogs & Articles", "Social Media Posts", "Video Scripts & Reels", "Case Studies & Whitepapers", "PR & Media Content"],
+          "image": "detail-svc-content-2",
+          "imageAlt": "Hand with a stylus over a tablet with glowing particles"
+        },
+        {
+          "id": "why",
+          "heading": "Why choose Credtech?",
+          "bullets": [
+            "<b>Industry-specific expertise.</b> Writers and strategists with experience across tech, education, real estate, healthcare and more.",
+            "<b>Data-driven decisions.</b> Insights, analytics and performance metrics guide continuous improvement.",
+            "<b>Omnichannel approach.</b> Consistency across digital ads, influencer content and newsletters.",
+            "<b>Quick turnaround and quality assurance.</b> Every deliverable is checked for accuracy, tone and brand alignment."
+          ],
+          "image": "detail-svc-content-3",
+          "imageAlt": "Content writing services word cloud above a laptop"
+        },
+        {
+          "id": "results",
+          "heading": "Results you can expect",
+          "paras": [
+            "Content marketing with Credtech is an investment in long-term growth and brand recognition. Our data-driven, creatively led approach is built for measurable impact across multiple touchpoints.",
+            "SEO-optimised content, long-tail keyword strategies and regular blog publishing bring in relevant, ready-to-convert visitors. High-quality, authoritative content improves your site's authority and search visibility."
+          ],
+          "bullets": ["Increased website traffic", "Better lead conversion rates", "Stronger brand identity", "Higher engagement across channels"]
+        }
+      ],
+      "sourceUrl": "https://credtechsolutions.com/content-marketing/",
+      "sourceModified": "2025-07-16T15:52:37"
+    }
+  ]
+}

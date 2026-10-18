@@ -1,0 +1,277 @@
+{
+ "_about": "Every page and post found on credtechsolutions.com on 2026-10-17 via the WordPress REST API, with where its content now lives. The build turns `newPath` differences into 301 redirects.",
+ "crawledOn": "2026-10-17",
+ "sourceApi": "https://credtechsolutions.com/wp-json/wp/v2/",
+ "entries": [
+  {
+   "type": "page",
+   "wpId": 4075,
+   "title": "Bada Naam Karenge",
+   "sourceUrl": "https://credtechsolutions.com/bada-naam-karenge/",
+   "sourceModified": "2025-08-01T15:43:43",
+   "newPath": "/campaigns/bada-naam-karenge/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 4010,
+   "title": "Shark Tank-2",
+   "sourceUrl": "https://credtechsolutions.com/shark-tank-2/",
+   "sourceModified": "2025-08-01T16:07:31",
+   "newPath": "/campaigns/shark-tank-india-s2/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 3985,
+   "title": "Hari Katha",
+   "sourceUrl": "https://credtechsolutions.com/hari-katha/",
+   "sourceModified": "2025-08-02T17:05:51",
+   "newPath": "/campaigns/hari-katha/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 3963,
+   "title": "Tanaav 2",
+   "sourceUrl": "https://credtechsolutions.com/tanaav-2/",
+   "sourceModified": "2025-08-02T13:27:13",
+   "newPath": "/campaigns/tanaav-2/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 3927,
+   "title": "Our Plan",
+   "sourceUrl": "https://credtechsolutions.com/our-plan/",
+   "sourceModified": "2025-08-02T11:58:12",
+   "newPath": "/plans/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 3881,
+   "title": "Schedule a Meeting",
+   "sourceUrl": "https://credtechsolutions.com/schedule-a-meeting/",
+   "sourceModified": "2025-07-25T18:15:30",
+   "newPath": "/schedule-a-meeting/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 3583,
+   "title": "Analytics & Conversion Optimization",
+   "sourceUrl": "https://credtechsolutions.com/analytics-conversion-optimization/",
+   "sourceModified": "2025-07-21T13:50:16",
+   "newPath": "/services/analytics-conversion-optimization/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 3574,
+   "title": "Online Reputation Management",
+   "sourceUrl": "https://credtechsolutions.com/online-reputation-management/",
+   "sourceModified": "2025-07-21T14:42:19",
+   "newPath": "/services/online-reputation-management/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 3568,
+   "title": "Website Design & Developement",
+   "sourceUrl": "https://credtechsolutions.com/website-design-developement/",
+   "sourceModified": "2025-07-19T17:02:59",
+   "newPath": "/services/website-design-development/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 3346,
+   "title": "Blog",
+   "sourceUrl": "https://credtechsolutions.com/blog-post/",
+   "sourceModified": "2025-09-29T15:52:07",
+   "newPath": "/blog/",
+   "status": "replaced by a real post index (the live page was a list of topic ideas)"
+  },
+  {
+   "type": "page",
+   "wpId": 3257,
+   "title": "Privacy Policy",
+   "sourceUrl": "https://credtechsolutions.com/privacy-policy/",
+   "sourceModified": "2025-07-17T16:04:26",
+   "newPath": "/privacy-policy/",
+   "status": "migrated (incomplete at source)"
+  },
+  {
+   "type": "page",
+   "wpId": 2034,
+   "title": "Our Clients",
+   "sourceUrl": "https://credtechsolutions.com/our-clients/",
+   "sourceModified": "2025-07-23T18:35:06",
+   "newPath": "/clients/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 1983,
+   "title": "Our  Campaign",
+   "sourceUrl": "https://credtechsolutions.com/our-campaign/",
+   "sourceModified": "2025-07-25T12:09:32",
+   "newPath": "/campaigns/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 1952,
+   "title": "Content Marketing",
+   "sourceUrl": "https://credtechsolutions.com/content-marketing/",
+   "sourceModified": "2025-07-16T15:52:37",
+   "newPath": "/services/content-marketing/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 1944,
+   "title": "PR Agency",
+   "sourceUrl": "https://credtechsolutions.com/pr-agency/",
+   "sourceModified": "2025-07-16T16:14:54",
+   "newPath": "/services/public-relations/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 1861,
+   "title": "Search Engine Marketing",
+   "sourceUrl": "https://credtechsolutions.com/seosearch-engine-marketing/",
+   "sourceModified": "2025-07-16T16:05:10",
+   "newPath": "/services/search-engine-marketing/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 1846,
+   "title": "Social Media Marketing",
+   "sourceUrl": "https://credtechsolutions.com/social-meadia-marketing/",
+   "sourceModified": "2025-07-16T16:42:29",
+   "newPath": "/services/social-media-marketing/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 1442,
+   "title": "Careers",
+   "sourceUrl": "https://credtechsolutions.com/careers/",
+   "sourceModified": "2025-05-23T15:31:34",
+   "newPath": "/careers/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 750,
+   "title": "Social Media Amplification",
+   "sourceUrl": "https://credtechsolutions.com/social-media-amplification/",
+   "sourceModified": "2025-07-16T16:30:38",
+   "newPath": "/services/social-media-amplification/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 25,
+   "title": "Contact",
+   "sourceUrl": "https://credtechsolutions.com/contact/",
+   "sourceModified": "2025-08-01T13:29:16",
+   "newPath": "/contact/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 23,
+   "title": "Portfolio",
+   "sourceUrl": "https://credtechsolutions.com/portfolio/",
+   "sourceModified": "2025-05-27T17:01:47",
+   "newPath": "/campaigns/",
+   "status": "merged into Campaigns"
+  },
+  {
+   "type": "page",
+   "wpId": 21,
+   "title": "Services",
+   "sourceUrl": "https://credtechsolutions.com/services/",
+   "sourceModified": "2025-08-04T15:46:53",
+   "newPath": "/services/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 19,
+   "title": "About us",
+   "sourceUrl": "https://credtechsolutions.com/about-us/",
+   "sourceModified": "2025-09-29T16:11:51",
+   "newPath": "/about/",
+   "status": "migrated"
+  },
+  {
+   "type": "page",
+   "wpId": 9,
+   "title": "Home",
+   "sourceUrl": "https://credtechsolutions.com/",
+   "sourceModified": "2026-06-23T21:55:24",
+   "newPath": "/",
+   "status": "migrated"
+  },
+  {
+   "type": "post",
+   "wpId": 3393,
+   "title": "Digital Marketing helps you.",
+   "sourceUrl": "https://credtechsolutions.com/digital-marketing/",
+   "sourceModified": "2025-07-22T11:25:25",
+   "newPath": null,
+   "status": "held for review (see posts.json reviewNote)"
+  },
+  {
+   "type": "post",
+   "wpId": 3439,
+   "title": "Social Media Marketing: Build a Loyal Community",
+   "sourceUrl": "https://credtechsolutions.com/social-media-marketing-build-a-loyal-community/",
+   "sourceModified": "2025-08-01T12:51:17",
+   "newPath": "/blog/social-media-marketing-build-a-loyal-community/",
+   "status": "migrated"
+  },
+  {
+   "type": "post",
+   "wpId": 3424,
+   "title": "“From Startup to Standout: The Power of Public Relations”",
+   "sourceUrl": "https://credtechsolutions.com/from-startup-to-standout/",
+   "sourceModified": "2025-08-01T12:55:30",
+   "newPath": "/blog/from-startup-to-standout/",
+   "status": "migrated"
+  },
+  {
+   "type": "post",
+   "wpId": 3433,
+   "title": "Content Marketing: Educate, Engage, and Convert",
+   "sourceUrl": "https://credtechsolutions.com/content-marketing/",
+   "sourceModified": "2025-08-02T17:24:46",
+   "newPath": "/blog/content-marketing-educate-engage-convert/",
+   "status": "migrated"
+  },
+  {
+   "type": "post",
+   "wpId": 3521,
+   "title": "Drive Targeted Traffic & Leads",
+   "sourceUrl": "https://credtechsolutions.com/targeted-traffic-leads/",
+   "sourceModified": "2025-08-01T12:55:02",
+   "newPath": null,
+   "status": "held for review (see posts.json reviewNote)"
+  },
+  {
+   "type": "post",
+   "wpId": 3511,
+   "title": "Online Reputation Management (ORM):",
+   "sourceUrl": "https://credtechsolutions.com/online-reputation-management-orm/",
+   "sourceModified": "2025-08-01T12:53:06",
+   "newPath": "/blog/online-reputation-management-orm/",
+   "status": "migrated"
+  }
+ ]
+}
