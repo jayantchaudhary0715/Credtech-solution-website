@@ -147,7 +147,7 @@ export function servicesIndex(ctx, data) {
   ${C.serviceTrain(ctx, S.more)}
   ${C.ctaBand(ctx, { title: 'Not sure where to start?', text: 'Ask for a free audit of your social presence and reputation, or compare our monthly plans.' })}
 </main>`;
-  return { id: 'services', title: 'Digital Marketing and PR Services in Noida', description: 'Social media marketing, amplification, PR, influencer marketing, online reputation management, ads, analytics, SEO, content and website development from Credtech Solutions.', trail, body };
+  return { id: 'services', title: 'Digital Marketing and PR Services', description: 'Digital marketing and PR services in Noida: social media, amplification, PR, influencer marketing, ORM, ads, analytics, SEO, content and web development.', trail, body };
 }
 
 /* =================== SERVICE DETAIL =================== */
